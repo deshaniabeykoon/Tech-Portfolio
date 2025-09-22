@@ -1,0 +1,100 @@
+[
+    {
+      "id": "FUWmHO-9vFeyN2829R6eRw",
+      "alias": "the-grand-Ceylon-sri-lanka-auckland",
+      "name": "The Grand Ceylon",
+      "image_url": "https://lh3.googleusercontent.com/p/AF1QipOhknMvHIAFEvQIL4zF6oVKnU9Acf_UVAr12-Et=s1360-w1360-h1020-rw",
+      "is_closed": false,
+      "url": "https://www.ordermeal.co.nz/grand-ceylon/",
+      "review_count": 50,
+      "categories": [
+        {
+          "alias": "srilankan",
+          "title": "Sri Lankan"
+        },
+        { "alias": "seafood", "title": "Seafood" },
+        { "alias": "halal", "title": "Halal" },
+        { "alias": "vegetarian", "title": "Vegetarian" }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": -36.9791,
+        "longitude": 174.8519
+      },
+      "transactions": [],
+      "location": {
+        "address1": "20 Rangitoto Road",
+        "address2": "Papatoetoe",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "2025",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "20 Rangitoto Road",
+          "Papatoetoe",
+          "Auckland 2025",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6492822155",
+      "display_phone": "+64 9 282 2155",
+      "distance": 4502.26585290502,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.ordermeal.co.nz/grand-ceylon/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    }
+]

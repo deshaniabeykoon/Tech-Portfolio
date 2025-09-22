@@ -1,0 +1,52 @@
+sequenceDiagram
+    participant User
+    participant UI
+    participant AuthService
+    participant Backend
+    participant Database
+    participant SystemMonitor
+
+    %% General API request
+    User->>UI: Perform action (like, comment, navigate)
+    UI->>Backend: Send API request
+    alt API timeout or network failure
+        Backend--xUI: No response
+        UI-->>User: Show general error prompt with retry option
+    else Response received
+        Backend-->>UI: Proceed with normal flow
+    end
+
+    %% Insufficient permission
+    User->>UI: Access admin page
+    UI->>AuthService: Check role/permissions
+    alt Not an admin
+        AuthService-->>UI: Access denied
+        UI-->>User: Show "Access restricted" prompt
+    end
+
+    %% Empty data or data load timeout
+    User->>UI: Load data (e.g., reviews, food stories)
+    UI->>Backend: Fetch data
+    alt Data missing or timeout
+        Backend-->>UI: No data or timeout
+        UI-->>User: Show "No data found" or "Load failed", allow retry
+    else Data available
+        Backend-->>UI: Display data
+    end
+
+    %% Duplicate comment/like/interaction (multi-user conflict)
+    User->>UI: Submit comment or rating
+    UI->>Backend: Save to database
+    alt Duplicate detected (conflict)
+        Backend-->>UI: Conflict error
+        UI-->>User: Show error, prevent duplicate action
+    else Accepted
+        Backend->>Database: Store data
+        Database-->>Backend: OK
+        Backend-->>UI: Confirm success
+    end
+
+    %% System maintenance
+    SystemMonitor-->>UI: Trigger maintenance mode
+    UI-->>User: Show maintenance notice
+    UI-->>User: Limit access to affected features

@@ -1,0 +1,2726 @@
+{
+  "businesses": [
+    {
+      "id": "UPVkKAErxb-79CKdMU8U2g",
+      "alias": "maori-bay-muriwai",
+      "name": "Maori Bay",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/tRnNOUs9SdDwn4nJvjUIVw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/maori-bay-muriwai?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        },
+        {
+          "alias": "beaches",
+          "title": "Beaches"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.8331655,
+        "longitude": 174.4287153
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Waitea Road",
+        "address2": "Muriwai",
+        "address3": "",
+        "city": "Muriwai",
+        "zip_code": "0881",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Waitea Road",
+          "Muriwai",
+          "Muriwai 0881",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 30191.32986746906,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0600",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0600",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0600",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0600",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0600",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0600",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0600",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "IeOCn3qv2fm8NGSYKdNliA",
+      "alias": "auckland-war-memorial-museum-auckland",
+      "name": "Auckland War Memorial Museum",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/3uvgHIOnhDv_s1E_4EcLWQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/auckland-war-memorial-museum-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 59,
+      "categories": [
+        {
+          "alias": "museums",
+          "title": "Museums"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -36.8604082,
+        "longitude": 174.7772178
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Auckland Domain",
+        "address2": "Parnell",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Auckland Domain",
+          "Parnell",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493090443",
+      "display_phone": "+64 9 309 0443",
+      "distance": 967.0180208660507,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "7VcDz-QT9sAN-4JM3SYicw",
+      "alias": "mt-eden-auckland-5",
+      "name": "Mt Eden",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/ZLyOMMPbFLFIG-VsPuvr9w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mt-eden-auckland-5?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 19,
+      "categories": [
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": -36.8774311101117,
+        "longitude": 174.764263629868
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Mt Eden",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1024",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Mt Eden",
+          "Auckland 1024",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 1984.2462040722994,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "AowfNJK7w_5FSYPhr70gDw",
+      "alias": "stardome-auckland",
+      "name": "Stardome",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/YBVIvGJIZ9qDSUb-57eO1A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/stardome-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 10,
+      "categories": [
+        {
+          "alias": "arts",
+          "title": "Arts & Entertainment"
+        },
+        {
+          "alias": "venues",
+          "title": "Venues & Event Spaces"
+        },
+        {
+          "alias": "educationservices",
+          "title": "Educational Services"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": -36.906173335866725,
+        "longitude": 174.77693877144165
+      },
+      "transactions": [],
+      "location": {
+        "address1": "670 Manukau Rd",
+        "address2": "One Tree Hill Domain",
+        "address3": "Epsom",
+        "city": "Auckland",
+        "zip_code": "1023",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "670 Manukau Rd",
+          "One Tree Hill Domain",
+          "Epsom",
+          "Auckland 1023",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496241246",
+      "display_phone": "+64 9 624 1246",
+      "distance": 5255.667178765392,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": false
+      }
+    },
+    {
+      "id": "vjtHYA6ERPaheQ4Eb4FL0g",
+      "alias": "mana-gallery-auckland-2",
+      "name": "Mana Gallery",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/am-y4kiLcZjoNHWvE-ZVag/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mana-gallery-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "giftshops",
+          "title": "Gift Shops"
+        },
+        {
+          "alias": "galleries",
+          "title": "Art Galleries"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.8572502,
+        "longitude": 174.7813873
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "Shop 3",
+        "address2": "323 Parnell Rd, Parnell Village",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1052",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Shop 3",
+          "323 Parnell Rd, Parnell Village",
+          "Auckland 1052",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493770417",
+      "display_phone": "+64 9 377 0417",
+      "distance": 1363.7175879227402,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1600",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1600",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "KZzmkMDi6g1f1tXdpiCDjQ",
+      "alias": "auckland-explorer-bus-auckland",
+      "name": "Auckland Explorer Bus",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/9WwrULbjJtf55KLR4-7yJw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/auckland-explorer-bus-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 19,
+      "categories": [
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        },
+        {
+          "alias": "tours",
+          "title": "Tours"
+        },
+        {
+          "alias": "publictransport",
+          "title": "Public Transportation"
+        }
+      ],
+      "rating": 3.1,
+      "coordinates": {
+        "latitude": -36.8428980863164,
+        "longitude": 174.767503738403
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Auckland",
+        "address2": null,
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Auckland",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+64800439756",
+      "display_phone": "+64 800 439 756",
+      "distance": 1867.3068252743633,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "wa2PJsWDmM-Jc8mF2jumWQ",
+      "alias": "the-poi-room-auckland",
+      "name": "The Poi Room",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Uwo23NhALLzjkTXlItUoCw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-poi-room-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "jewelry",
+          "title": "Jewelry"
+        },
+        {
+          "alias": "galleries",
+          "title": "Art Galleries"
+        },
+        {
+          "alias": "homedecor",
+          "title": "Home Decor"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -36.8683,
+        "longitude": 174.77717
+      },
+      "transactions": [],
+      "location": {
+        "address1": "17 Osborne Street",
+        "address2": "Newmarket",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1023",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "17 Osborne Street",
+          "Newmarket",
+          "Auckland 1023",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495200399",
+      "display_phone": "+64 9 520 0399",
+      "distance": 1357.0063426764234,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1730",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1730",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1730",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1730",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1730",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1600",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "rINrGSVMPJhY694bLSRWIg",
+      "alias": "one-tree-hill-domain-maungakiekie-auckland",
+      "name": "One Tree Hill Domain - Maungakiekie",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/6HOMJL3v0bWaU9wpweTgdw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/one-tree-hill-domain-maungakiekie-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 24,
+      "categories": [
+        {
+          "alias": "landmarks",
+          "title": "Landmarks & Historical Buildings"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -36.8977931,
+        "longitude": 174.787686
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Cornwall Park",
+        "address2": "670 Manukau Road",
+        "address3": "Epsom",
+        "city": "Auckland",
+        "zip_code": "1023",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Cornwall Park",
+          "670 Manukau Road",
+          "Epsom",
+          "Auckland 1023",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 4643.374420778371,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "cksmeG89TU9EkufDmpoPrw",
+      "alias": "motuihe-island-auckland",
+      "name": "Motuihe Island",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/ZBxUTIuPbILCnkJUJxlVUg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/motuihe-island-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        },
+        {
+          "alias": "beaches",
+          "title": "Beaches"
+        },
+        {
+          "alias": "parks",
+          "title": "Parks"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.8121244,
+        "longitude": 174.9479378
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Motuihe Island",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Motuihe Island",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+64800668844",
+      "display_phone": "+64 800 668 844",
+      "distance": 16999.984051584044,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "LDN_7dpfEougZ9cVoc6OBA",
+      "alias": "aucky-walky-tours-auckland",
+      "name": "Aucky Walky Tours",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/FgImypU7z_FjrIOc0IBRIg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/aucky-walky-tours-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 9,
+      "categories": [
+        {
+          "alias": "walkingtours",
+          "title": "Walking Tours"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.84465,
+        "longitude": 174.76728
+      },
+      "transactions": [],
+      "location": {
+        "address1": "8 Customs Street East",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "8 Customs Street East",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6421378267",
+      "display_phone": "+64 21 378 267",
+      "distance": 1679.6992841334902,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "s9W0JY6nQ87g36iZFcgI8w",
+      "alias": "logan-campbell-centre-auckland-2",
+      "name": "Logan Campbell Centre",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/logan-campbell-centre-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "venues",
+          "title": "Venues & Event Spaces"
+        },
+        {
+          "alias": "stadiumsarenas",
+          "title": "Stadiums & Arenas"
+        },
+        {
+          "alias": "musicvenues",
+          "title": "Music Venues"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.8905699,
+        "longitude": 174.7943
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "217 Greenlane Rd West",
+        "address2": "Epsom",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1051",
+        "country": "NZ",
+        "state": "BOP",
+        "display_address": [
+          "217 Greenlane Rd West",
+          "Epsom",
+          "Auckland 1051",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496389969",
+      "display_phone": "+64 9 638 9969",
+      "distance": 4239.288804700145,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "zM_XzlW3y4qGb9eFgcVSKA",
+      "alias": "nz-blood-service-epsom-auckland",
+      "name": "NZ Blood Service Epsom",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Yr-PACSvJ3HiwV9xnqcVyQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nz-blood-service-epsom-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "nonprofit",
+          "title": "Community Service/Non-Profit"
+        },
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        },
+        {
+          "alias": "health",
+          "title": "Health & Medical"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.8817711,
+        "longitude": 174.7840424
+      },
+      "transactions": [],
+      "location": {
+        "address1": "71 Great South Rd",
+        "address2": "Epsom",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1051",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "71 Great South Rd",
+          "Epsom",
+          "Auckland 1051",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495235733",
+      "display_phone": "+64 9 523 5733",
+      "distance": 2901.0683788788424,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1830",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1830",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1500",
+              "day": 4
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "TdTTcuwgtZWz_eV5qkP9oA",
+      "alias": "te-motu-vineyard-waiheke-island",
+      "name": "Te Motu Vineyard",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/5__yTA351ZPzjigU1wHFRw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/te-motu-vineyard-waiheke-island?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 19,
+      "categories": [
+        {
+          "alias": "winetastingroom",
+          "title": "Wine Tasting Room"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": -36.7958167427493,
+        "longitude": 175.069088973105
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "76 Onetangi Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Waiheke Island",
+        "zip_code": "1081",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "76 Onetangi Rd",
+          "Waiheke Island 1081",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493726884",
+      "display_phone": "+64 9 372 6884",
+      "distance": 27861.658767487912,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2130",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2130",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "FcdXhqc__N4I4DuNP1mYfQ",
+      "alias": "nz-chauffeur-orakei",
+      "name": "NZ Chauffeur",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/ZJ7HKHLhOKlOmzdNSvbApw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nz-chauffeur-orakei?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "travelservices",
+          "title": "Travel Services"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -36.85134,
+        "longitude": 174.81268
+      },
+      "transactions": [],
+      "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Orakei",
+        "zip_code": "1071",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Orakei 1071",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495282919",
+      "display_phone": "+64 9 528 2919",
+      "distance": 5144.790471573748,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 4
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "0bbXVMO1mp-csf4rBhYCQg",
+      "alias": "mahuhu-ki-te-rangi-park-auckland",
+      "name": "Mahuhu ki te Rangi Park",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/R8fVcXGToTR7fOvE2b9ejg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mahuhu-ki-te-rangi-park-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "parks",
+          "title": "Parks"
+        },
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8468968,
+        "longitude": 174.7751916
+      },
+      "transactions": [],
+      "location": {
+        "address1": "13-19 Mahuhu Crescent",
+        "address2": "Auckland Central",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "13-19 Mahuhu Crescent",
+          "Auckland Central",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 1621.744162143893,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "eEJgebXxZVPhpw8fRqtaOA",
+      "alias": "mount-eden-domain-auckland",
+      "name": "Mount Eden Domain",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/F95Gr1BWdPkBXdtJvrdlQw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mount-eden-domain-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 26,
+      "categories": [
+        {
+          "alias": "landmarks",
+          "title": "Landmarks & Historical Buildings"
+        },
+        {
+          "alias": "parks",
+          "title": "Parks"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": -36.8774311101117,
+        "longitude": 174.764263629868
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Mount Eden",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1024",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Mount Eden",
+          "Auckland 1024",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 1984.2462040722994,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "M6Q3sPMfoM74DxcphA99nQ",
+      "alias": "auckland-wine-trail-tours-auckland",
+      "name": "Auckland Wine Trail Tours",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/n9GQsnLzVm5eYkDDMq3kbg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/auckland-wine-trail-tours-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 15,
+      "categories": [
+        {
+          "alias": "wineries",
+          "title": "Wineries"
+        }
+      ],
+      "rating": 4.9,
+      "coordinates": {
+        "latitude": -36.8780518,
+        "longitude": 174.755722
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "11 Pentland Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1024",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "11 Pentland Ave",
+          "Auckland 1024",
+          "New Zealand"
+        ]
+      },
+      "phone": "+64272274924",
+      "display_phone": "+64 27 227 4924",
+      "distance": 2254.4221810635895,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "eKsW3PaVMsRit3TOVTasAA",
+      "alias": "devonport-public-library-auckland",
+      "name": "Devonport Public Library",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/aCcIHWosSwfNqDEuWaqhuA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/devonport-public-library-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "libraries",
+          "title": "Libraries"
+        }
+      ],
+      "rating": 3.2,
+      "coordinates": {
+        "latitude": -36.8267739,
+        "longitude": 174.796658
+      },
+      "transactions": [],
+      "location": {
+        "address1": "2 Victoria Rd",
+        "address2": "Devonport",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0624",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "2 Victoria Rd",
+          "Devonport",
+          "Auckland 0624",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494868460",
+      "display_phone": "+64 9 486 8460",
+      "distance": 4542.429295494535,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1730",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1730",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1730",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1730",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "K5_Dhxgqskq55ujUs4wqrw",
+      "alias": "auckland-art-gallery-auckland",
+      "name": "Auckland Art Gallery",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/1Xju-mAhIkgAY76qoV_Itw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/auckland-art-gallery-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 42,
+      "categories": [
+        {
+          "alias": "galleries",
+          "title": "Art Galleries"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -36.8513957695232,
+        "longitude": 174.766079424329
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "Cnr Kitchener and Wellesley Streets",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Cnr Kitchener and Wellesley Streets",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493077700",
+      "display_phone": "+64 9 307 7700",
+      "distance": 920.1769630294325,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "CKOWkSbhsmXXR4gWNq-25w",
+      "alias": "city-of-auckland-auckland-2",
+      "name": "City of Auckland",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fi0FN1frGKCwu8tsgWfQtg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/city-of-auckland-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        }
+      ],
+      "rating": 3.7,
+      "coordinates": {
+        "latitude": -36.850891597146415,
+        "longitude": 174.76444635540247
+      },
+      "transactions": [],
+      "location": {
+        "address1": "",
+        "address2": "",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 991.0014268709629,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "kabnD6NHlt7l38rlL5Okgg",
+      "alias": "michael-joseph-savage-memorial-park-auckland",
+      "name": "Michael Joseph Savage Memorial Park",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/xBUd4ShteszR-k3TWhNGvA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/michael-joseph-savage-memorial-park-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 13,
+      "categories": [
+        {
+          "alias": "landmarks",
+          "title": "Landmarks & Historical Buildings"
+        },
+        {
+          "alias": "parks",
+          "title": "Parks"
+        },
+        {
+          "alias": "venues",
+          "title": "Venues & Event Spaces"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -36.8454574,
+        "longitude": 174.8236178
+      },
+      "transactions": [],
+      "location": {
+        "address1": "19 Hapimana Street",
+        "address2": "Mission Bay",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1071",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "19 Hapimana Street",
+          "Mission Bay",
+          "Auckland 1071",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493796476",
+      "display_phone": "+64 9 379 6476",
+      "distance": 5331.603546723795,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "W3xSOJ5Z8nSdhrIIWawLqA",
+      "alias": "new-zealand-maritime-museum-auckland",
+      "name": "New Zealand Maritime Museum",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/M_w0WMP5wcQA0U-ARCdvcA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/new-zealand-maritime-museum-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 19,
+      "categories": [
+        {
+          "alias": "museums",
+          "title": "Museums"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": -36.8422074,
+        "longitude": 174.7632851
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Hobson St",
+        "address2": "Viaduct Harbour",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Hobson St",
+          "Viaduct Harbour",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493730800",
+      "display_phone": "+64 9 373 0800",
+      "distance": 1960.9982800578896,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "_YIXGiyA0NLM8gH-CfohwA",
+      "alias": "auckland-auckland-22",
+      "name": "Auckland",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/0td9W_IwYPztd_7JphKHkg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/auckland-auckland-22?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.8460693,
+        "longitude": 174.7643585
+      },
+      "transactions": [],
+      "location": {
+        "address1": "35 Albert St",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "35 Albert St",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493797815",
+      "display_phone": "+64 9 379 7815",
+      "distance": 1524.2851518079283,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "E38bPSMPXgA5OcsKXVgXgw",
+      "alias": "arataki-visitor-centre-auckland",
+      "name": "Arataki Visitor Centre",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/n05rRtiNdqpFytBPb83jcQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/arataki-visitor-centre-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "visitorcenters",
+          "title": "Visitor Centers"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": -36.9470046,
+        "longitude": 174.6064729
+      },
+      "transactions": [],
+      "location": {
+        "address1": "300 Scenic Drive",
+        "address2": "Oratia",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0604",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "300 Scenic Drive",
+          "Oratia",
+          "Auckland 0604",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498170077",
+      "display_phone": "+64 9 817 0077",
+      "distance": 17219.060412307,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "yB917uaFVb2Bw1usX_Da6Q",
+      "alias": "otuataua-historical-stonefields-auckland",
+      "name": "Otuataua Historical Stonefields",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/f7KjaRtZzQXrT30jVVwAHg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/otuataua-historical-stonefields-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "parks",
+          "title": "Parks"
+        },
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        },
+        {
+          "alias": "landmarks",
+          "title": "Landmarks & Historical Buildings"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.9861875,
+        "longitude": 174.7503158
+      },
+      "transactions": [],
+      "location": {
+        "address1": "56 Ihumatao Quarry Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "2022",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "56 Ihumatao Quarry Rd",
+          "Auckland 2022",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 14140.733246583452,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "zMtvcdoLnLL3KH5tM8LUjA",
+      "alias": "the-poi-room-auckland-2",
+      "name": "The Poi Room",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/bJoDpx1hotLU3ONcYxYHZw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-poi-room-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "galleries",
+          "title": "Art Galleries"
+        },
+        {
+          "alias": "homedecor",
+          "title": "Home Decor"
+        },
+        {
+          "alias": "jewelry",
+          "title": "Jewelry"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.85740525358198,
+        "longitude": 174.74879608863873
+      },
+      "transactions": [],
+      "location": {
+        "address1": "37 Ponsonby Road",
+        "address2": "Grey Lynn",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "37 Ponsonby Road",
+          "Grey Lynn",
+          "Auckland 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493784364",
+      "display_phone": "+64 9 378 4364",
+      "distance": 1585.2155183235975,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1730",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1730",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1730",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1730",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1730",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1600",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "et_TyuqwRSDBUEljtk0iWw",
+      "alias": "north-head-historic-reserve-auckland",
+      "name": "North Head Historic Reserve",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/_vVuqsSvCKWkd6i4Tgp22Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/north-head-historic-reserve-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 13,
+      "categories": [
+        {
+          "alias": "parks",
+          "title": "Parks"
+        },
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        }
+      ],
+      "rating": 4.9,
+      "coordinates": {
+        "latitude": -36.8270687,
+        "longitude": 174.810339
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Takarunga Rd",
+        "address2": "Devonport",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0624",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Takarunga Rd",
+          "Devonport",
+          "Auckland 0624",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494459142",
+      "display_phone": "+64 9 445 9142",
+      "distance": 5332.509002673872,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0600",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "mZP9Ne-ScqTaN4DLA3awYA",
+      "alias": "howick-historical-village-auckland",
+      "name": "Howick Historical Village",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/wmPSgiNF4TNbTPYvGOekWw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/howick-historical-village-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "museums",
+          "title": "Museums"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.9048094,
+        "longitude": 174.9006635
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "Bells Road",
+        "address2": "Lloyd Elsmore Park",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "2010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Bells Road",
+          "Lloyd Elsmore Park",
+          "Auckland 2010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495769506",
+      "display_phone": "+64 9 576 9506",
+      "distance": 12954.656022419176,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "_09uqRYsTBY6iXlQhj7zJA",
+      "alias": "manurewa-maori-wardens-auckland",
+      "name": "Manurewa Maori Wardens",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/manurewa-maori-wardens-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "publicservicesgovt",
+          "title": "Public Services & Government"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -37.020649,
+        "longitude": 174.8938599
+      },
+      "transactions": [],
+      "location": {
+        "address1": "13 Maich Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "2102",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "13 Maich Rd",
+          "Auckland 2102",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 21258.593552968778,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "oKcEr5SWS6tBIxrTPsCkTQ",
+      "alias": "tomaiora-maori-health-research-centre-auckland",
+      "name": "Tomaiora Maori Health Research Centre",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tomaiora-maori-health-research-centre-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.8612328,
+        "longitude": 174.7696838
+      },
+      "transactions": [],
+      "location": {
+        "address1": "85 Park Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1023",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "85 Park Rd",
+          "Auckland 1023",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493737599",
+      "display_phone": "+64 9 373 7599",
+      "distance": 321.67306600898326,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "veCAvo3w4z24lXFLRmDptA",
+      "alias": "wharekaha-maori-womens-welfare-league-papakura",
+      "name": "Wharekaha Maori Womens Welfare League",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/wharekaha-maori-womens-welfare-league-papakura?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -37.0673904,
+        "longitude": 174.9450378
+      },
+      "transactions": [],
+      "location": {
+        "address1": "2 Opaheke St",
+        "address2": null,
+        "address3": null,
+        "city": "Papakura",
+        "zip_code": "2110",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "2 Opaheke St",
+          "Papakura 2110",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6492997862",
+      "display_phone": "+64 9 299 7862",
+      "distance": 28027.47373715848,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "tIIcxvErwnHkEb1H4amUwA",
+      "alias": "pankhurst-studio-gallery-auckland",
+      "name": "Pankhurst Studio Gallery",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pankhurst-studio-gallery-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "galleries",
+          "title": "Art Galleries"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.856991,
+        "longitude": 174.7812298
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "305 Parnell Road",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1052",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "305 Parnell Road",
+          "Auckland 1052",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493070155",
+      "display_phone": "+64 9 307 0155",
+      "distance": 1353.591956939583,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1600",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1600",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1600",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1600",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1600",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1600",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1600",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "6CGUIU3AWTsJ4y-QARUuew",
+      "alias": "maori-mental-health-services-auckland",
+      "name": "Maori Mental Health Services",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/maori-mental-health-services-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.8721504,
+        "longitude": 174.7122955
+      },
+      "transactions": [],
+      "location": {
+        "address1": "11 Sutherland Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1025",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "11 Sutherland Rd",
+          "Auckland 1025",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498453084",
+      "display_phone": "+64 9 845 3084",
+      "distance": 5051.899082904453,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "waitlist_reservation": null
+      }
+    }
+  ]
+}

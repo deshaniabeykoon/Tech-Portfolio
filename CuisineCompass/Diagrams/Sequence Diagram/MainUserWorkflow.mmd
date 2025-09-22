@@ -1,0 +1,87 @@
+sequenceDiagram
+    participant User
+    participant Homepage
+    participant Restaurant
+    participant FilterSearch
+    participant Restaurant
+    participant Review
+    participant Favorites
+    participant CultureStory
+    participant UserProfile
+
+    User ->> Homepage: Visit homepage
+    Homepage -->> User: Display welcome message / featured content
+
+    User ->> Restaurant: Browse restaurants
+    Restaurant -->> User: Show paginated list
+
+    User ->> FilterSearch: Apply filters/search query
+    FilterSearch -->> Restaurant: Update list with filtered results
+
+    User ->> Restaurant: Click on a restaurant
+    Restaurant -->> User: Show detailed view (menu, location, etc.)
+
+    User ->> Review: Submit rating/review
+    Review -->> User: Confirm submission
+
+    User ->> Favorites: Add to favorites
+    Favorites -->> User: Confirmation or error
+
+    User ->> CultureStory: View cultural food story
+    CultureStory -->> User: Display origin/story/summary
+
+    User ->> UserProfile: Open profile
+    UserProfile -->> User: Show account info, reviews, favorites
+
+    User ->> Homepage: Return or exit
+
+    sequenceDiagram
+    participant User
+    participant Homepage
+    participant Restaurant
+    participant FilterEngine
+    participant ContentPanel
+    participant ActionHandler
+    participant ErrorHandler
+    participant CulturalEngine
+    participant UserProfile
+
+    User ->> Homepage: Open homepage
+    Homepage -->> User: Show landing view
+
+    User ->> Restaurant: Browse restaurant list
+    Restaurant ->> Restaurant: Load restaurant data
+    alt Data loading failed / No data
+        Restaurant ->> ErrorHandler: Trigger retry or no-data message
+        ErrorHandler -->> User: Show retry or "No restaurants found"
+    end
+
+    User ->> FilterEngine: Apply filters/search
+    alt No results or Error
+        FilterEngine ->> ErrorHandler: Show "No results" / Retry
+        ErrorHandler -->> User: Show message or retry
+    end
+    FilterEngine ->> Restaurant: Return filtered list
+
+    User ->> Restaurant: Select a restaurant
+    Restaurant -->> User: Display details
+
+    User ->> ContentPanel: View ratings, reviews, stories
+    ContentPanel -->> User: Show reviews, cultural story, recommendations
+
+    User ->> ActionHandler: Rate / Review / Favorite
+    alt Already rated/favorited or Not logged in
+        ActionHandler ->> ErrorHandler: Check duplicates or auth
+        ErrorHandler -->> User: Show "Already done" or "Login required"
+    else Valid action
+        ActionHandler ->> User: Confirm action success
+    end
+
+    User ->> CulturalEngine: Explore routes or similar recommendations
+    CulturalEngine -->> User: Display cultural food journey
+
+    User ->> UserProfile: Visit profile
+    UserProfile -->> User: Manage history and favorites
+
+    User ->> Homepage: Back to homepage or logout
+

@@ -1,0 +1,77 @@
+import os
+import openai
+from dotenv import load_dotenv
+
+load_dotenv()  # Load environment variables from .env file
+client = openai.Client(api_key=os.getenv("OPENAI_API_KEY"))
+
+class LLMProvider:
+    def generate(self, prompt):
+        raise NotImplementedError
+
+class OpenAIProvider(LLMProvider):
+    def generate(self, prompt):
+        return f"[MOCK GPT RESPONSE] Traditional dishes for: {prompt}"
+    # def generate(self, prompt):
+    #     try:
+    #         response = client.chat.completions.create(
+    #             model="gpt-3.5-turbo",
+    #             messages=[
+    #                 {"role": "system", "content": "You are a multicultural cuisine expert and culinary travel assistant."},
+    #                 {"role": "user", "content": prompt}
+    #             ]
+    #         )
+    #         return response['choices'][0]['message']['content']
+    #     except Exception as e:
+    #         return f"OpenAI API Error: {str(e)}"
+
+class DeepSeekProvider(LLMProvider):
+    def generate(self, prompt):
+        # DeepSeek integration
+                # Simulated mock response
+        sample_responses = {
+            "indian": "Try dishes like Butter Chicken, Masala Dosa, and Rogan Josh.",
+            "ethiopian": "You’ll love Doro Wat, Injera, and Shiro!",
+            "japanese": "Don't miss Sushi, Ramen, and Okonomiyaki.",
+            "mexican": "Tacos al Pastor, Tamales, and Chiles en Nogada are top picks!"
+        }
+
+        # Try to match some keyword in prompt
+        key = next((k for k in sample_responses if k in prompt.lower()), None)
+        return sample_responses.get(key, f"[DeepSeek MOCK] Suggestions for: {prompt}")
+
+class LLaMAProvider(LLMProvider):
+    def generate(self, prompt):
+        # Local LLaMA call
+        return f"[LLaMA MOCK] Recommended foods for: {prompt}"
+
+class LLMFactory:
+    @staticmethod
+    def get_llm(provider_name):
+        if provider_name == "openai":
+            return OpenAIProvider()
+        elif provider_name == "deepseek":
+            return DeepSeekProvider()
+        elif provider_name == "llama":
+            return LLaMAProvider()
+        else:
+            raise ValueError("Unknown provider")
+
+from fastapi import APIRouter, Query
+from fastapi.responses import JSONResponse
+
+router = APIRouter()
+
+@router.get("/llm/generate")
+def generate_response(prompt: str = Query(...), provider: str = "openai"):
+    try:
+        llm = LLMFactory.get_llm(provider)
+        response = llm.generate(prompt)
+        return {"provider": provider, "response": response}
+    except Exception as e:
+        return JSONResponse(status_code=400, content={"error": str(e)})
+# This code defines a FastAPI router for generating responses from different LLM providers.
+# It includes a factory pattern to instantiate the appropriate LLM provider based on the request.
+# The OpenAIProvider is implemented to interact with the OpenAI API, while placeholders for DeepSeek and LLaMA providers are included for future implementation.
+# The `/llm/generate` endpoint accepts a prompt and a provider name, returning the generated response or an error message if something goes wrong.
+# The code is structured to allow easy extension for additional LLM providers in the future.

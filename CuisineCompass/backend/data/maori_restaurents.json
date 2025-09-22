@@ -1,0 +1,156 @@
+[
+  {
+    "id": "y1rcbQRL619ikomIBZodhA",
+    "alias": "ahi-restaurant-auckland",
+    "name": "Ahi. Restaurant",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMbDr_gZP17Da3Pgz-PZdDFzZJhAjmhM5lpkQjo=s1360-w1360-h1020-rw",
+    "is_closed": false,
+    "url": "https://ahirestaurant.co.nz/",
+    "review_count": 50,
+    "categories": [
+      {
+        "alias": "maori",
+        "title": "Maori"
+      },
+      {
+        "alias": "kiwifood",
+        "title": "Kiwi"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "newzealand",
+        "title": "New Zealand"
+      },
+      {
+        "alias": "localflavor",
+        "title": "Local Flavor"
+      }
+    ],
+    "rating": 4.6,
+    "coordinates": {
+      "latitude": -36.8436,
+      "longitude": 174.7665
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Commercial Bay Level 2/7 Queen Street",
+      "address2": "Auckland Central",
+      "address3": "",
+      "city": "Auckland",
+      "zip_code": "1010",
+      "country": "NZ",
+      "state": "AUK",
+      "display_address": [
+        "Commercial Bay Level 2/7 Queen Street",
+        "Auckland Central",
+        "Auckland 1010",
+        "New Zealand"
+      ]
+    },
+    "phone": "+64225244255",
+    "display_phone": "+64 22 524 4255",
+    "distance": 12165.936239938224,
+    "business_hours": [
+      {
+        "open": [
+          { "is_overnight": false, "start": "1200", "end": "1000", "day": 0 },
+          { "is_overnight": false, "start": "1200", "end": "1000", "day": 1 },
+          { "is_overnight": false, "start": "1200", "end": "1000", "day": 2 },
+          { "is_overnight": false, "start": "1200", "end": "1000", "day": 3 },
+          { "is_overnight": false, "start": "1200", "end": "1000", "day": 4 },
+          { "is_overnight": false, "start": "1200", "end": "1000", "day": 5 },
+          { "is_overnight": false, "start": "1200", "end": "1000", "day": 6 }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://ahirestaurant.co.nz/menu/",
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "y1rcbQRL619ikomIBZodhB",
+    "alias": "onemata-restaurant-auckland",
+    "name": "Onemata Restaurant",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPvcErJdwpdN5hqJbzFQuuvEiWpt9BTJIME0lVW=w289-h312-n-k-no",
+    "is_closed": false,
+    "url": "https://onematarestaurant.co.nz/",
+    "review_count": 60,
+    "categories": [
+      {
+        "alias": "maori",
+        "title": "Maori"
+      },
+      {
+        "alias": "kiwifood",
+        "title": "Kiwi"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "newzealand",
+        "title": "New Zealand"
+      },
+      {
+        "alias": "localflavor",
+        "title": "Local Flavor"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": -36.8417,
+      "longitude": 174.7587
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Park Hyatt Auckland 99 Halsey Street",
+      "address2": "Auckland Central",
+      "address3": "",
+      "city": "Auckland",
+      "zip_code": "1010",
+      "country": "NZ",
+      "state": "AUK",
+      "display_address": [
+        "Park Hyatt Auckland 99 Halsey Street",
+        "Auckland Central",
+        "Auckland 1010",
+        "New Zealand"
+      ]
+    },
+    "phone": "+6493662500",
+    "display_phone": "+64 9 366 2500",
+    "distance": 12165.936239938224,
+    "business_hours": [
+      {
+        "open": [
+          { "is_overnight": false, "start": "0700", "end": "0200", "day": 0 },
+          { "is_overnight": false, "start": "0630", "end": "1030", "day": 1 },
+          { "is_overnight": false, "start": "0630", "end": "1030", "day": 2 },
+          { "is_overnight": false, "start": "0630", "end": "1030", "day": 3 },
+          { "is_overnight": false, "start": "0630", "end": "1030", "day": 4 },
+          { "is_overnight": false, "start": "0630", "end": "1030", "day": 5 },
+          { "is_overnight": false, "start": "0700", "end": "0200", "day": 6 }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://onematarestaurant.co.nz/menu/",
+      "waitlist_reservation": null
+    }
+  }
+]

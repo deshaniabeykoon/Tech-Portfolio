@@ -1,0 +1,54 @@
+sequenceDiagram
+    participant Admin
+    participant UI
+    participant AuthService
+    participant Backend
+    participant Database
+
+    Admin->>UI: Access backend login
+    UI->>AuthService: Submit credentials
+    alt Valid Admin Credentials
+        AuthService-->>UI: Auth success
+        UI-->>Admin: Show admin dashboard
+        Admin->>UI: Manage restaurants/users/comments/stories
+        loop Admin Actions
+            Admin->>UI: Add/Edit/Delete
+            UI->>Backend: Send request
+            alt Valid data
+                Backend->>Database: Update/Save/Delete
+                Database-->>Backend: Success
+                Backend-->>UI: Operation success
+                UI-->>Admin: Confirm action
+            else Incomplete/invalid form
+                Backend-->>UI: Validation error
+                UI->>Admin: Show error, block submission
+            end
+        end
+        Admin->>UI: Import/Export data or view stats
+        UI->>Backend: Process request
+        alt Import/export success
+            Backend->>Database: Read/Write data
+            Database-->>Backend: OK
+            Backend-->>UI: Show results/summary
+        else Format or API error
+            Backend-->>UI: Show failure reason
+            UI-->>Admin: Prompt to correct or retry
+        end
+        Admin->>UI: Logout
+        UI->>AuthService: End session
+    else Invalid Credentials
+        AuthService-->>UI: Login failed
+        UI-->>Admin: Show error message, allow retry
+    end
+
+    alt Non-admin access attempt
+        User-->>UI: Access backend
+        UI->>AuthService: Check permissions
+        AuthService-->>UI: Access denied
+        UI->>User: Show insufficient permission message
+    end
+
+    alt Backend API failure
+        Backend--xUI: Internal server error
+        UI->>Admin: Show popup error, suggest contacting tech support
+    end

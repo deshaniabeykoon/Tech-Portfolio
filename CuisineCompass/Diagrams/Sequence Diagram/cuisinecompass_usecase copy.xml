@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="CuisineCompass Use Case Diagram" id="usecase-diagram-1">
+    <mxGraphModel dx="1080" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <mxCell id="uc-browse" value="Browse Restaurants" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-search" value="Search by Keyword" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-filter" value="Filter Restaurants" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-view-detail" value="View Restaurant Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-explore-map" value="Explore via Map" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-view-reviews" value="View Ratings &amp; Reviews" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-map-markers" value="View Map Markers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="330" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-filter-map" value="Filter Map Tags" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-search-map" value="Search on Map" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-register" value="Register Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-login" value="Log In / Log Out" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-profile" value="Manage Profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="580" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-favorites" value="Manage Favorites" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="630" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-history" value="View History" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-dining-history" value="View Dining History" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="730" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-recommend" value="Get Recommendations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="780" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-checkin" value="Check-In at Restaurant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="830" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-rate" value="Rate Restaurant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="880" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-own-ratings" value="View Own Ratings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="930" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-update-rating" value="Update/Delete Rating (Future)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="980" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-comment-photo" value="Add Comments/Photos (Future)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1030" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-interact-review" value="Interact with Reviews (Future)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1080" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-map-personal" value="Personalized Map (Future)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1130" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-nearby" value="Nearby Restaurants (Future)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1180" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-admin-restaurants" value="Add/Edit/Delete Restaurants" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1230" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-admin-dishes" value="Add/Edit/Delete Dishes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1280" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-admin-users" value="Manage Users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1330" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-admin-moderate" value="Moderate Reviews" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1380" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-admin-import" value="Bulk Import (Future)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1430" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-cultural-reco" value="Get Cultural Food Recommendation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1480" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-dish-story" value="Display Story Behind Dish" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1530" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-cultural-fact" value="Learn Cultural Fact (Daily)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1580" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-search-mood" value="Search by Emotion/Mood" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1630" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-story-discovery" value="Story-Driven Restaurant Discovery" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1680" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-qr-scan" value="QR Code Scan at Venue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1730" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-bookmark-trail" value="Bookmark Cultural Trail" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1780" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-share-experience" value="Share Food Experience" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1830" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="uc-upload-story" value="Upload Own Cultural Story" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1880" width="160" height="40" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

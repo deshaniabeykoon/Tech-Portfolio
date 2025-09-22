@@ -1,0 +1,53 @@
+sequenceDiagram
+    participant User
+    participant UI
+    participant AuthService
+    participant ContentService
+    participant CommentModeration
+    participant Backend
+    participant Database
+
+    User->>UI: Browse culture tab or restaurant detail
+    UI->>ContentService: Fetch cultural stories/routes
+    alt Stories/routes load successfully
+        ContentService-->>UI: Display content
+        User->>UI: Like / Comment / Favorite
+        alt User is logged in
+            alt Action is "Like" or "Favorite"
+                UI->>Backend: Send like/favorite request
+                alt Already liked/favorited
+                    Backend-->>UI: Show already performed status
+                    UI-->>User: Update button state or tooltip
+                else New action
+                    Backend->>Database: Save like/favorite
+                    Database-->>Backend: OK
+                    Backend-->>UI: Confirm success
+                    UI-->>User: Show updated UI
+                end
+            else Action is "Comment"
+                UI->>CommentModeration: Check for rule violations
+                alt Violates rules
+                    CommentModeration-->>UI: Rejected, sensitive content
+                    UI-->>User: Show reason, reject post
+                else Clean comment
+                    UI->>Backend: Submit comment
+                    Backend->>Database: Save comment
+                    Database-->>Backend: OK
+                    Backend-->>UI: Confirm success
+                    UI-->>User: Display comment
+                end
+            end
+        else Not logged in
+            UI-->>User: Show login prompt popup
+        end
+    else Load fails
+        ContentService-->>UI: Error
+        UI-->>User: Show failure message, allow retry
+    end
+
+    alt Like/Comment API error
+        Backend--xUI: Server/API error
+        UI-->>User: Show error, allow retry
+    end
+
+    User->>UI: Return to culture tab or continue browsing

@@ -1,0 +1,27 @@
+# need to install the following packages
+pandas
+numpy
+scikit-learn
+fastapi
+transformers
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+openai
+geopy
+requests
+accelerate
+torch
+duckduckgo-search 
+beautifulsoup4
+together
+pydantic[email]
+passlib
+langdetect
+pytest
+bcrypt==4.1.2
+fastapi[all] 
+python-jose[cryptography] 
+passlib[bcrypt]
+apscheduler

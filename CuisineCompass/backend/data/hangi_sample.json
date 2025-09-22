@@ -1,0 +1,65 @@
+[
+  {
+    "id": "y1rcbQRL619YcDmIBZodhA",
+    "alias": "the-hangi-shop-auckland",
+    "name": "The Hangi Shop",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/cI-hKKI1BPB5nIOr-y8Drw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-hangi-shop-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "maori",
+        "title": "Maori"
+      },
+      {
+        "alias": "kiwifood",
+        "title": "Kiwi"
+      }
+    ],
+    "rating": 4.2,
+    "coordinates": {
+      "latitude": -36.9489099,
+      "longitude": 174.8455453
+    },
+    "transactions": [],
+    "location": {
+      "address1": "538A Great South Road",
+      "address2": "Otahuhu",
+      "address3": "",
+      "city": "Auckland",
+      "zip_code": "1062",
+      "country": "NZ",
+      "state": "AUK",
+      "display_address": [
+        "538A Great South Road",
+        "Otahuhu",
+        "Auckland 1062",
+        "New Zealand"
+      ]
+    },
+    "phone": "+6492762267",
+    "display_phone": "+64 9 276 2267",
+    "distance": 12165.936239938224,
+    "business_hours": [
+      {
+        "open": [
+          { "is_overnight": false, "start": "1130", "end": "0700", "day": 0 },
+          { "is_overnight": false, "start": "1130", "end": "0700", "day": 1 },
+          { "is_overnight": false, "start": "1030", "end": "0830", "day": 2 },
+          { "is_overnight": false, "start": "1030", "end": "0830", "day": 3 },
+          { "is_overnight": false, "start": "1030", "end": "0830", "day": 4 },
+          { "is_overnight": false, "start": "1030", "end": "0830", "day": 5 },
+          { "is_overnight": false, "start": "1030", "end": "0830", "day": 6 }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "waitlist_reservation": null
+    }
+  }
+]

@@ -1,0 +1,648 @@
+{
+  "businesses": [
+    {
+      "id": "VT2sQbfdswdpxSBeSzJyKg",
+      "alias": "bali-star-auckland",
+      "name": "Bali Star",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/p9_gily0Kag0-GTMdTeBPg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bali-star-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "indonesian",
+          "title": "Indonesian"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8983994,
+        "longitude": 174.9225464
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "21-25 Elliot Street",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "21-25 Elliot Street",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493790027",
+      "display_phone": "+64 9 379 0027",
+      "distance": 1149.238525695587,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "VhiywuLawV4OgFmepc64EQ",
+      "alias": "kuta-bali-auckland",
+      "name": "Kuta Bali",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/LT994l_rKrHgkDty5Ecnnw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kuta-bali-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "indonesian",
+          "title": "Indonesian"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.7312775,
+        "longitude": 174.7100525
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "2 Corinthian Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0632",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "2 Corinthian Dr",
+          "Auckland 0632",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 15106.991637333924,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "OWo6qWdrnoZ22pbdgL9_Yg",
+      "alias": "kintamani-bali-cafe-auckland",
+      "name": "Kintamani Bali Cafe",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/yP8t_0WliQgvd10AvDkbNQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kintamani-bali-cafe-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "indonesian",
+          "title": "Indonesian"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.8319433,
+        "longitude": 174.7963
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Shop 11, 1 Queens Parade",
+        "address2": "Devonport",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0624",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Shop 11, 1 Queens Parade",
+          "Devonport",
+          "Auckland 0624",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494453838",
+      "display_phone": "+64 9 445 3838",
+      "distance": 4072.8539840769313,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1900",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1900",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1900",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "YYabtxTfAv2ZkjvO0hdjMg",
+      "alias": "mamak-auckland",
+      "name": "Mamak",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fXWfnJnUHEBc_K8OZAuRSw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mamak-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 65,
+      "categories": [
+        {
+          "alias": "malaysian",
+          "title": "Malaysian"
+        },
+        {
+          "alias": "tapasmallplates",
+          "title": "Tapas/Small Plates"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": -36.848316,
+        "longitude": 174.76767
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "50 Kitchener St",
+        "address2": "Chancery Square",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "50 Kitchener St",
+          "Chancery Square",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6499486479",
+      "display_phone": "+64 9 948 6479",
+      "distance": 1267.36577746309,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "bPk1DLSsQDxzLVrnIXyVbg",
+      "alias": "legianz-auckland",
+      "name": "Legianz",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/hOFSuP5SAQYb8FgeGgOJLg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/legianz-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "indonesian",
+          "title": "Indonesian"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.8484345964628,
+        "longitude": 174.75465837776
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "Unit 25",
+        "address2": "210-218 Victoria St West",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Unit 25",
+          "210-218 Victoria St West",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493795058",
+      "display_phone": "+64 9 379 5058",
+      "distance": 1627.6515643457863,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "z6MOImAJlNTUw6yPyI7Nug",
+      "alias": "golden-tulip-auckland",
+      "name": "Golden Tulip",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fHC8IRQk87JiDWB9Wf6AWA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/golden-tulip-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "malaysian",
+          "title": "Malaysian"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8874174,
+        "longitude": 174.7471539
+      },
+      "transactions": [],
+      "location": {
+        "address1": "537 Dominion Rd",
+        "address2": "Balmoral",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1041",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "537 Dominion Rd",
+          "Balmoral",
+          "Auckland 1041",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496306882",
+      "display_phone": "+64 9 630 6882",
+      "distance": 3528.230956891755,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "2lnhzYMoAHMmBaO8tjR7fg",
+      "alias": "wardani-auckland",
+      "name": "Wardani",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Wp7PoQzSPiStmF50tiXNqg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/wardani-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "indonesian",
+          "title": "Indonesian"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.7319194,
+        "longitude": 174.7089193
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "15c Mercari Way",
+        "address2": "Albany",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0632",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "15c Mercari Way",
+          "Albany",
+          "Auckland 0632",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494485772",
+      "display_phone": "+64 9 448 5772",
+      "distance": 15098.498851097542,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2130",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2130",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2130",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2130",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2130",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2130",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2130",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+sequenceDiagram
+    participant User
+    participant UI
+    participant AuthService
+    participant ThirdPartyProvider
+    participant EmailService
+
+    User->>UI: Click Register/Login
+    UI-->>User: Show form / third-party options
+    User->>UI: Fill in form or select third-party
+    alt Third-party login
+        UI->>ThirdPartyProvider: Send auth request
+        alt Authorization successful
+            ThirdPartyProvider-->>UI: Auth token
+            UI->>AuthService: Validate third-party token
+            AuthService-->>UI: Login successful
+            UI->>User: Redirect to homepage or previous page
+        else Authorization denied
+            ThirdPartyProvider-->>UI: Error (denied)
+            UI->>User: Show failure reason, allow retry
+        end
+    else Traditional registration/login
+        UI->>AuthService: Send credentials
+        alt Credentials valid
+            AuthService-->>UI: Login successful
+            alt Email not verified
+                UI-->>User: Prompt to verify email, restrict features
+            else Email verified
+                UI-->>User: Redirect to homepage or previous page
+            end
+        else Credentials invalid or duplicate email
+            AuthService-->>UI: Error (invalid, duplicate, etc.)
+            UI-->>User: Highlight form errors, block submission
+        end
+    end
+    alt API error or network issue
+        AuthService--xUI: Error
+        UI-->>User: Show friendly error, allow retry
+    end

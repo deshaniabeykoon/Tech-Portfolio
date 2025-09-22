@@ -1,0 +1,325 @@
+{
+  "businesses": [
+    {
+      "id": "FUWmHO-9vFeyN2Gf9R6eRw",
+      "alias": "7-siri-taste-of-sri-lanka-auckland",
+      "name": "7 Siri - Taste of Sri Lanka",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Uf5BUUuc9xJfAFhdml_7mg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/7-siri-taste-of-sri-lanka-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 12,
+      "categories": [
+        {
+          "alias": "srilankan",
+          "title": "Sri Lankan"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": -36.892248,
+        "longitude": 174.7363351
+      },
+      "transactions": [],
+      "location": {
+        "address1": "580 Sandringham Rd",
+        "address2": "Sandringham",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1025",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "580 Sandringham Rd",
+          "Sandringham",
+          "Auckland 1025",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498496294",
+      "display_phone": "+64 9 849 6294",
+      "distance": 4502.26585290502,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2130",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1230",
+              "end": "2130",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1230",
+              "end": "2130",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1230",
+              "end": "2130",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1230",
+              "end": "2130",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1230",
+              "end": "2130",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://7siri.com/index.php?option=com_content&view=article&id=22&Itemid=95",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "0YScQqDBt4T4rjgsHNfyIg",
+      "alias": "dil-takeaways-mt-wellington",
+      "name": "Dil Takeaways",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/A2oQDg-IxXRyXioJYbg9RA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/dil-takeaways-mt-wellington?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "srilankan",
+          "title": "Sri Lankan"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.90923,
+        "longitude": 174.8317099
+      },
+      "transactions": [],
+      "location": {
+        "address1": "2 Commissariat Rd",
+        "address2": "Shop 8",
+        "address3": "",
+        "city": "Mt Wellington",
+        "zip_code": "1060",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "2 Commissariat Rd",
+          "Shop 8",
+          "Mt Wellington 1060",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495260038",
+      "display_phone": "+64 9 526 0038",
+      "distance": 8010.191025133723,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1930",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1930",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1930",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1930",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2300",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "z2NE2FgFN6799Wy90_Y7Hw",
+      "alias": "oum-pillaiyar-trader-sandringham",
+      "name": "Oum Pillaiyar Trader",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/GYxG_hEx5AsHteYgPnoWXA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/oum-pillaiyar-trader-sandringham?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "indpak",
+          "title": "Indian"
+        },
+        {
+          "alias": "srilankan",
+          "title": "Sri Lankan"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.8925739604943,
+        "longitude": 174.736308994436
+      },
+      "transactions": [],
+      "location": {
+        "address1": "585 Sandringham Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Sandringham",
+        "zip_code": "1025",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "585 Sandringham Rd",
+          "Sandringham 1025",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498468185",
+      "display_phone": "+64 9 846 8185",
+      "distance": 4532.848726074754,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://stanthony.co.nz/menu.html",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "zy16V6uLngA6Q-L7mssy_A",
+      "alias": "st-anthonys-auckland",
+      "name": "St Anthonys",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/st-anthonys-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "srilankan",
+          "title": "Sri Lankan"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.87188,
+        "longitude": 174.74471
+      },
+      "transactions": [],
+      "location": {
+        "address1": "475 New North Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1021",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "475 New North Rd",
+          "Auckland 1021",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2361.765217426433,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1931 @@
+{
+  "businesses": [
+    {
+      "id": "dpIHImH90f1xpTwXGRNG0g",
+      "alias": "mezze-bar-auckland",
+      "name": "Mezze Bar",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Q4o2YWLkcn_rdyAVscxPMg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mezze-bar-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 48,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "mideastern",
+          "title": "Middle Eastern"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": -36.8484525,
+        "longitude": 174.7659581
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "9 Durham St East",
+        "address2": "Auckland CBD",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "9 Durham St East",
+          "Auckland CBD",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493072029",
+      "display_phone": "+64 9 307 2029",
+      "distance": 1247.630043209643,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2230",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2300",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2330",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2330",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://mezzebar.co.nz/our-menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "cTUd-xHyYsQrqg-I-CF3EQ",
+      "alias": "el-greco-auckland",
+      "name": "El Greco",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/u039Tyea0tUZr2ddaeZhXA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/el-greco-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "greek",
+          "title": "Greek"
+        },
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.7455,
+        "longitude": 174.7603
+      },
+      "transactions": [],
+      "location": {
+        "address1": "1 The Esplanade",
+        "address2": "Campbell's Bay",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0630",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "1 The Esplanade",
+          "Campbell's Bay",
+          "Auckland 0630",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494755772",
+      "display_phone": "+64 9 475 5772",
+      "distance": 11153.611633409784,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "w0AFk9Z0653LYLvFtmsJ5Q",
+      "alias": "gerome-auckland",
+      "name": "Gerome",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/5k1K7nzBEnpxPwI7crUuWA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/gerome-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "greek",
+          "title": "Greek"
+        }
+      ],
+      "rating": 2.8,
+      "coordinates": {
+        "latitude": -36.8562882622155,
+        "longitude": 174.780879189123
+      },
+      "transactions": [],
+      "location": {
+        "address1": "267 Parnell Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1052",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "267 Parnell Rd",
+          "Auckland 1052",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493733883",
+      "display_phone": "+64 9 373 3883",
+      "distance": 1342.920517446008,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "EszGTX74ypr8fRQ0DV3NNg",
+      "alias": "bodrum-market-newmarket",
+      "name": "Bodrum Market",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bodrum-market-newmarket?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        },
+        {
+          "alias": "turkish",
+          "title": "Turkish"
+        },
+        {
+          "alias": "venues",
+          "title": "Venues & Event Spaces"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.87181,
+        "longitude": 174.77673
+      },
+      "transactions": [],
+      "location": {
+        "address1": "309 Broadway",
+        "address2": "277",
+        "address3": "Westfield",
+        "city": "Newmarket",
+        "zip_code": "1023",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "309 Broadway",
+          "277",
+          "Westfield",
+          "Newmarket 1023",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496002631",
+      "display_phone": "+64 9 600 2631",
+      "distance": 1666.6347147591216,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "CqaYnWebd8rNjEOuq8dWhA",
+      "alias": "fig-and-olive-restaurant-howick",
+      "name": "Fig and Olive Restaurant",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/9M0j_ovi6jlZo2kSuVOu1w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/fig-and-olive-restaurant-howick?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -36.8957214,
+        "longitude": 174.9332275
+      },
+      "transactions": [],
+      "location": {
+        "address1": "9 Cook St",
+        "address2": null,
+        "address3": null,
+        "city": "Howick",
+        "zip_code": "2014",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "9 Cook St",
+          "Howick 2014",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495328161",
+      "display_phone": "+64 9 532 8161",
+      "distance": 15369.5236383024,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2300",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2300",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2300",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.dineout.co.nz/assets/8351_Entree_%26_Main_Menu.pdf",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "wRCIJ6D0O754kjdyLIH7hA",
+      "alias": "nikos-pizza-auckland",
+      "name": "Niko's Pizza",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/4FnnVl9zokJP02V3CavQ1A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nikos-pizza-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 8,
+      "categories": [
+        {
+          "alias": "greek",
+          "title": "Greek"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "rating": 3.6,
+      "coordinates": {
+        "latitude": -36.7860603,
+        "longitude": 174.7727356
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "2 Anzac St",
+        "address2": "Takapuna",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0622",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "2 Anzac St",
+          "Takapuna",
+          "Auckland 0622",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494860600",
+      "display_phone": "+64 9 486 0600",
+      "distance": 8206.562816264806,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "5kJfxrNwCwaK21mJej3bwQ",
+      "alias": "nicolino-restaurant-and-cube-bar-auckland",
+      "name": "Nicolino Restaurant & Cube Bar",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/UQPmyf1KV7Aim8G3xXAOJA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nicolino-restaurant-and-cube-bar-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 12,
+      "categories": [
+        {
+          "alias": "greek",
+          "title": "Greek"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": -36.8290992,
+        "longitude": 174.7976622
+      },
+      "transactions": [],
+      "location": {
+        "address1": "103 Victoria Rd",
+        "address2": "Devonport",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0624",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "103 Victoria Rd",
+          "Devonport",
+          "Auckland 0624",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494466664",
+      "display_phone": "+64 9 446 6664",
+      "distance": 4392.977947930056,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.nicolino.co.nz/menus",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "sDS0A8CqQXOjCGoMFLWqmQ",
+      "alias": "cafe-midnight-express-auckland-city",
+      "name": "Cafe Midnight Express",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/wBlXJSi2P-TJBe11hMhz7g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cafe-midnight-express-auckland-city?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 31,
+      "categories": [
+        {
+          "alias": "mideastern",
+          "title": "Middle Eastern"
+        },
+        {
+          "alias": "turkish",
+          "title": "Turkish"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -36.8482411002444,
+        "longitude": 174.763214926389
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "59 Victoria St",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland City",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "59 Victoria St",
+          "Auckland City 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493030312",
+      "display_phone": "+64 9 303 0312",
+      "distance": 1301.5378938249378,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "3ILxl3znokAKDNXlDEudtg",
+      "alias": "casablanca-mount-wellington",
+      "name": "Casablanca",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/eeZBpZ3CbqcIu9urn7D2ZA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/casablanca-mount-wellington?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 23,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        },
+        {
+          "alias": "turkish",
+          "title": "Turkish"
+        }
+      ],
+      "rating": 3.6,
+      "coordinates": {
+        "latitude": -36.9148674542941,
+        "longitude": 174.84088887805
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "65 Dining Lane",
+        "address2": "Sylvia Park",
+        "address3": "",
+        "city": "Mount Wellington",
+        "zip_code": "1060",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "65 Dining Lane",
+          "Sylvia Park",
+          "Mount Wellington 1060",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495736272",
+      "display_phone": "+64 9 573 6272",
+      "distance": 9031.91656471532,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2330",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2300",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "C46Zpt2shL1qb4vwncSHCg",
+      "alias": "bodrum-kitchen-new-lynn",
+      "name": "Bodrum Kitchen",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/ORGdzv5P_zY9NkzSZJLUkA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bodrum-kitchen-new-lynn?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "turkish",
+          "title": "Turkish"
+        },
+        {
+          "alias": "greek",
+          "title": "Greek"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.90657,
+        "longitude": 174.68502
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "3058 Great North Rd",
+        "address2": "The Brickworks, LynnMall",
+        "address3": "",
+        "city": "New Lynn",
+        "zip_code": "0600",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "3058 Great North Rd",
+          "The Brickworks, LynnMall",
+          "New Lynn 0600",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498263357",
+      "display_phone": "+64 9 826 3357",
+      "distance": 8918.966088705394,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "C4NwBKmpr33e4HUBTUROeA",
+      "alias": "chargrill-auckland",
+      "name": "Chargrill",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/BQ9z7bMRds2oChIO29_N3w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/chargrill-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 33,
+      "categories": [
+        {
+          "alias": "kebab",
+          "title": "Kebab"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": -36.8456245,
+        "longitude": 174.7696725
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "101 Customs Street East",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "101 Customs Street East",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493735252",
+      "display_phone": "+64 9 373 5252",
+      "distance": 1588.6153359686734,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0900",
+              "end": "0900",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0900",
+              "end": "0900",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0900",
+              "end": "0900",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0900",
+              "end": "0900",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0900",
+              "end": "0900",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0900",
+              "end": "0900",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0900",
+              "end": "0900",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "Aj8TmAgdPoAt2dhKr9_x1A",
+      "alias": "casablanca-orewa",
+      "name": "Casablanca",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/hesrJG-C82p9mzXaVsyNvQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/casablanca-orewa?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 13,
+      "categories": [
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": -36.5866088874993,
+        "longitude": 174.696208946407
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "336 Hibiscus Coast Highway",
+        "address2": "",
+        "address3": "",
+        "city": "Orewa",
+        "zip_code": "0931",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "336 Hibiscus Coast Highway",
+          "Orewa 0931",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494266818",
+      "display_phone": "+64 9 426 6818",
+      "distance": 31000.249713296274,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "EX8mX_3p-UrTRUDAr9GeSA",
+      "alias": "fatimas-auckland",
+      "name": "Fatimas",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/QCoKRsfC52vqXZ0IHPcsJw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/fatimas-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 16,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "kebab",
+          "title": "Kebab"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": -36.8519287,
+        "longitude": 174.7447052
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "240 Ponsonby Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "240 Ponsonby Rd",
+          "Auckland 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493769303",
+      "display_phone": "+64 9 376 9303",
+      "distance": 2111.3970835012165,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.fatimas.co.nz/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "gvVrOzVOp1QaJHKGhiwxGw",
+      "alias": "ferizas-auckland",
+      "name": "Feriza's",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/lfbEz0_fgb2tfFnkudB2wA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ferizas-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "turkish",
+          "title": "Turkish"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8433456253258,
+        "longitude": 174.761197947389
+      },
+      "transactions": [],
+      "location": {
+        "address1": "7/12 Jellicoe St",
+        "address2": "",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "7/12 Jellicoe St",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496002088",
+      "display_phone": "+64 9 600 2088",
+      "distance": 1872.730405120134,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "xvU6I1Bgijr6FDaaSTxk7g",
+      "alias": "kebabs-kitchen-and-cafe-auckland",
+      "name": "Kebabs Kitchen & Cafe",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/v6_-DiFIzPM8nXxWkCozQg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kebabs-kitchen-and-cafe-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "kebab",
+          "title": "Kebab"
+        },
+        {
+          "alias": "turkish",
+          "title": "Turkish"
+        },
+        {
+          "alias": "greek",
+          "title": "Greek"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8788215,
+        "longitude": 174.8563893
+      },
+      "transactions": [],
+      "location": {
+        "address1": "149 Line Rd",
+        "address2": "Glen Innes",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1072",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "149 Line Rd",
+          "Glen Innes",
+          "Auckland 1072",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495213030",
+      "display_phone": "+64 9 521 3030",
+      "distance": 8284.664057526685,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "2130",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "2130",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "2130",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "2130",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "2130",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "2130",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2130",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "7CnwqpUg0XUNU1XG-ltNMQ",
+      "alias": "buona-sera-auckland",
+      "name": "Buona Sera",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/NcnUK8jBLj6-HwdPyiJ13w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/buona-sera-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": -36.8291397,
+        "longitude": 174.7977142
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "99 Victoria Road",
+        "address2": "Devonport",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0624",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "99 Victoria Road",
+          "Devonport",
+          "Auckland 0624",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494458133",
+      "display_phone": "+64 9 445 8133",
+      "distance": 4393.452840493056,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.buonasera.co.nz/main-menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "7T31boNi96_le2GZ06laNA",
+      "alias": "fatimas-auckland-2",
+      "name": "Fatimas",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Epob-TK5dUMlTFgWYk9jQQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/fatimas-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "turkish",
+          "title": "Turkish"
+        },
+        {
+          "alias": "mideastern",
+          "title": "Middle Eastern"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.7863287,
+        "longitude": 174.7723541
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "20 Anzac Street",
+        "address2": "Takapuna",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0622",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "20 Anzac Street",
+          "Takapuna",
+          "Auckland 0622",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494896552",
+      "display_phone": "+64 9 489 6552",
+      "distance": 8172.160296558704,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.fatimas.co.nz/menu_items/95588-baklava",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "3x1kktiezboj6-5YeClMGg",
+      "alias": "divino-auckland",
+      "name": "Divino",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/4dHfrHoZ7wJziP2aht9HMQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/divino-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": -36.7810211,
+        "longitude": 174.7541656
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "205 Shakespeare Rd",
+        "address2": "Milford",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0620",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "205 Shakespeare Rd",
+          "Milford",
+          "Auckland 0620",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494894433",
+      "display_phone": "+64 9 489 4433",
+      "distance": 8800.397501578149,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1600",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1600",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "S6Jp8M24I69dNODdVtCLcA",
+      "alias": "cafe-byzantium-auckland",
+      "name": "Cafe Byzantium",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/WxfFK3RmQtOKo6kjQG63AQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cafe-byzantium-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "mediterranean",
+          "title": "Mediterranean"
+        }
+      ],
+      "rating": 2.2,
+      "coordinates": {
+        "latitude": -36.8579674,
+        "longitude": 174.7492981
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "80 Ponsonby Road",
+        "address2": "Ponsonby",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "80 Ponsonby Road",
+          "Ponsonby",
+          "Auckland 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493763695",
+      "display_phone": "+64 9 376 3695",
+      "distance": 1514.451155350255,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "zUOuSa4jchYX4MhVVTQ6oQ",
+      "alias": "tank-auckland-3",
+      "name": "Tank",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/zjIxvRG797wCpvl7JsA33w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tank-auckland-3?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "juicebars",
+          "title": "Juice Bars & Smoothies"
+        },
+        {
+          "alias": "salad",
+          "title": "Salad"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.8479465,
+        "longitude": 174.7664881
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "55 High St",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "55 High St",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493652797",
+      "display_phone": "+64 9 365 2797",
+      "distance": 1303.338771002021,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1900",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.tankjuice.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "GXB9Z6FQi6gmmeLXMEfWjw",
+      "alias": "titirangi-village-kebab-auckland",
+      "name": "Titirangi Village Kebab",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Eq9F3H8sDSewC6sAmLJTHQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/titirangi-village-kebab-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "kebab",
+          "title": "Kebab"
+        },
+        {
+          "alias": "turkish",
+          "title": "Turkish"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": -36.93753,
+        "longitude": 174.65678
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "423 Titirangi Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0604",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "423 Titirangi Rd",
+          "Auckland 0604",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498171275",
+      "display_phone": "+64 9 817 1275",
+      "distance": 13029.464396554586,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.villagekebab.co.nz/pages/menus.html",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    }
+  ]
+}

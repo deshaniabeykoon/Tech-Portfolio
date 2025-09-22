@@ -1,0 +1,1224 @@
+{
+  "businesses": [
+    {
+      "id": "E7N4IAP6ZSVElA2n605GmQ",
+      "alias": "turo-turo-auckland",
+      "name": "Turo Turo",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/KMMC_lDzKYvMc57vccXeWw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/turo-turo-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "filipino",
+          "title": "Filipino"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8791084,
+        "longitude": 174.8554688
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "26A Mayfair Place",
+        "address2": "Glen Innes",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1072",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "26A Mayfair Place",
+          "Glen Innes",
+          "Auckland 1072",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495286050",
+      "display_phone": "+64 9 528 6050",
+      "distance": 8213.715435405438,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.turoturo.co.nz/menu.html",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "4NotTSckPmzSEaPNR8FKOQ",
+      "alias": "nanam-eatery-auckland",
+      "name": "Nanam Eatery",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/adkvW6y2o-kFjlV7KHwazw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nanam-eatery-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 18,
+      "categories": [
+        {
+          "alias": "filipino",
+          "title": "Filipino"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": -36.9118393942922,
+        "longitude": 174.776237010956
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "126 Symonds St",
+        "address2": "Royal Oak",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1061",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "126 Symonds St",
+          "Royal Oak",
+          "Auckland 1061",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496256558",
+      "display_phone": "+64 9 625 6558",
+      "distance": 5867.008195324468,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1530",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "WFax8n1AfDJnqdHBg9fOiQ",
+      "alias": "boracay-garden-restaurant-auckland",
+      "name": "Boracay Garden Restaurant",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/a__PeGmg1wUJqq_8_9WSJg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/boracay-garden-restaurant-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 7,
+      "categories": [
+        {
+          "alias": "filipino",
+          "title": "Filipino"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": -36.84372,
+        "longitude": 174.76086
+      },
+      "transactions": [],
+      "location": {
+        "address1": "124 Customs St West",
+        "address2": "The Viaduct",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "124 Customs St West",
+          "The Viaduct",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493773288",
+      "display_phone": "+64 9 377 3288",
+      "distance": 1827.787260045997,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1430",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1430",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1430",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1430",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1430",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1500",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "1CV-_gbg9_i83_URXo7Y8Q",
+      "alias": "3-kings-auckland",
+      "name": "3 Kings",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/sLBPmJaJVgJ6Rt0wcWUaEw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/3-kings-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "filipino",
+          "title": "Filipino"
+        },
+        {
+          "alias": "modern_european",
+          "title": "Modern European"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8121117309969,
+        "longitude": 174.724847807963
+      },
+      "transactions": [],
+      "location": {
+        "address1": "52 Mokoia Rd",
+        "address2": "Birkenhead",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0626",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "52 Mokoia Rd",
+          "Birkenhead",
+          "Auckland 0626",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494805100",
+      "display_phone": "+64 9 480 5100",
+      "distance": 6452.079547294141,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "4IrNe7gOY5LwdTYZfKbALA",
+      "alias": "lucky-buddha-eatery-auckland",
+      "name": "Lucky Buddha Eatery",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/BDWCOPmSP46fTX_AvyZD1w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/lucky-buddha-eatery-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 19,
+      "categories": [
+        {
+          "alias": "tapasmallplates",
+          "title": "Tapas/Small Plates"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        },
+        {
+          "alias": "filipino",
+          "title": "Filipino"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": -36.8461113,
+        "longitude": 174.7689819
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "48 Fort St",
+        "address2": "CBD",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "48 Fort St",
+          "CBD",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493093990",
+      "display_phone": "+64 9 309 3990",
+      "distance": 1525.2060388329699,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "2200",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "c7HK4f-gDYCG_2bDtUk2QQ",
+      "alias": "nanam-auckland",
+      "name": "Nanam",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/2DZEm-yPrPnm3rgGxaQcOw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nanam-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "filipino",
+          "title": "Filipino"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.7831,
+        "longitude": 174.7735999
+      },
+      "transactions": [],
+      "location": {
+        "address1": "178 Hurstmere Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0622",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "178 Hurstmere Rd",
+          "Auckland 0622",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494889976",
+      "display_phone": "+64 9 488 9976",
+      "distance": 8539.59879135643,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "2200",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "dkcuq1wSFDe72RJySszCkQ",
+      "alias": "chicken-republique-filipino-restaurant-auckland",
+      "name": "Chicken Republique Filipino Restaurant",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/chicken-republique-filipino-restaurant-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "filipino",
+          "title": "Filipino"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.893953,
+        "longitude": 174.700665
+      },
+      "transactions": [],
+      "location": {
+        "address1": "1863-1865 Great North Rd",
+        "address2": "Avondale",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1026",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "1863-1865 Great North Rd",
+          "Avondale",
+          "Auckland 1026",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498288750",
+      "display_phone": "+64 9 828 8750",
+      "distance": 6979.174065235773,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "Kt1RmEJVMG4vsIpeOR3ENw",
+      "alias": "food-alley-auckland",
+      "name": "Food Alley",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/lHVvchWUG6FYsaboJxyJtA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/food-alley-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 41,
+      "categories": [
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        },
+        {
+          "alias": "food_court",
+          "title": "Food Court"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": -36.844799,
+        "longitude": 174.7648926
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "9 Albert St",
+        "address2": "Auckland Central",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "9 Albert St",
+          "Auckland Central",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493734917",
+      "display_phone": "+64 9 373 4917",
+      "distance": 1662.0998120887127,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "QEsehlmUhdd3qGfovLzchQ",
+      "alias": "chikos-restaurant-and-cafe-auckland",
+      "name": "Chikos Restaurant & Cafe",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/kEtt_KDSxR4-122GAHq1OA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/chikos-restaurant-and-cafe-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 13,
+      "categories": [
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": -36.855713,
+        "longitude": 174.630468
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "7/255 Lincoln Road",
+        "address2": "Henderson",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0610",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "7/255 Lincoln Road",
+          "Henderson",
+          "Auckland 0610",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 12100.795217316152,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "GLkCRcKPxXOCb9yuUU1NPA",
+      "alias": "sarap-restaurant-and-grill-auckland",
+      "name": "Sarap Restaurant and Grill",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sarap-restaurant-and-grill-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "filipino",
+          "title": "Filipino"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.9083077113004,
+        "longitude": 174.682175293565
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "3055 Great North Rd",
+        "address2": "New Lynn",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0600",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "3055 Great North Rd",
+          "New Lynn",
+          "Auckland 0600",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498260642",
+      "display_phone": "+64 9 826 0642",
+      "distance": 9238.49672403131,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2230",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2230",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2230",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "4JkUNwPwGEfife6YCjLTBg",
+      "alias": "ensalada-cafe-auckland-2",
+      "name": "Ensalada Cafe",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/b5C_LBcrIekTfSLM9Qkx2g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ensalada-cafe-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "filipino",
+          "title": "Filipino"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.8577149,
+        "longitude": 174.7582564
+      },
+      "transactions": [],
+      "location": {
+        "address1": "286 Karangahape Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "286 Karangahape Rd",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493022155",
+      "display_phone": "+64 9 302 2155",
+      "distance": 757.7239413326671,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "a9DKmCHaBPe_stMIaFo6Lw",
+      "alias": "homecooked-filipino-cuisine-auckland",
+      "name": "HomeCooked Filipino Cuisine",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/homecooked-filipino-cuisine-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "filipino",
+          "title": "Filipino"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.76421,
+        "longitude": 174.73759
+      },
+      "transactions": [],
+      "location": {
+        "address1": "19 Link Dr",
+        "address2": "Wairau Valley",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "19 Link Dr",
+          "Wairau Valley",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494436286",
+      "display_phone": "+64 9 443 6286",
+      "distance": 10919.586983087418,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2030",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2030",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2030",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2030",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2030",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2030",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "QMuK7MZ6TT4Xn0-EHSzBBA",
+      "alias": "ameza-auckland",
+      "name": "A'meza",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Dbqyyt02jmIxehLxM5RcDQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ameza-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.87926,
+        "longitude": 174.74976
+      },
+      "transactions": [],
+      "location": {
+        "address1": "345 Dominion Rd",
+        "address2": "Mount Eden",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1024",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "345 Dominion Rd",
+          "Mount Eden",
+          "Auckland 1024",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496308269",
+      "display_phone": "+64 9 630 8269",
+      "distance": 2634.0658533269366,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    }
+  ]
+}

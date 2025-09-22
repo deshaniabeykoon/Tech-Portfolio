@@ -1,0 +1,166 @@
+{
+  "businesses": [
+    {
+      "id": "4WmyNK20KO_yQj7tuvjwKQ",
+      "alias": "curry-leaf-indian-restaurant-and-takeaways-auckland",
+      "name": "Curry Leaf Indian Restaurant & Takeaways",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/curry-leaf-indian-restaurant-and-takeaways-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "indpak",
+          "title": "Indian"
+        },
+        {
+          "alias": "pakistani",
+          "title": "Pakistani"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.921478,
+        "longitude": 174.785355
+      },
+      "transactions": [],
+      "location": {
+        "address1": "237 Onehunga Mall",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1061",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "237 Onehunga Mall",
+          "Auckland 1061",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496369666",
+      "display_phone": "+64 9 636 9666",
+      "distance": 7076.97006565373,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "b7W7n0_YXzgLd0VU-s9CgQ",
+      "alias": "jaipur-indian-restaurant-hamilton",
+      "name": "Jaipur Indian Restaurant",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/jaipur-indian-restaurant-hamilton?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "indpak",
+          "title": "Indian"
+        }
+      ],
+      "rating": 4.7,
+      "coordinates": {
+        "latitude": -37.7818748,
+        "longitude": 175.2778745
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "793 Victoria St",
+        "address2": null,
+        "address3": null,
+        "city": "Hamilton",
+        "zip_code": "3204",
+        "country": "NZ",
+        "state": "WKO",
+        "display_address": [
+          "793 Victoria St",
+          "Hamilton 3204",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6478393400",
+      "display_phone": "+64 7 839 3400",
+      "distance": 112075.79670406677,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2230",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2230",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,7057 @@
+{
+  "businesses": [
+    {
+      "id": "uI-ks3RgAkifIOtZgmYvVA",
+      "alias": "taco-loco-auckland",
+      "name": "taco loco",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8kCv3AyZRoCg1D10GYkzSQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/taco-loco-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.8821204791254,
+        "longitude": 174.717533024473
+      },
+      "transactions": [],
+      "location": {
+        "address1": "847 New North Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "847 New North Rd",
+          "Auckland",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 5011.97855753053,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "1500",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "nvHrYUlIKydeHMzvEjmi-A",
+      "alias": "dos-amigos-auckland",
+      "name": "Dos Amigos",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Sv8NLOX77U-db4MDNEFBYA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/dos-amigos-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 22,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": -36.848461,
+        "longitude": 174.832584
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "93 Tamaki Dr",
+        "address2": "Mission Bay",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1071",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "93 Tamaki Dr",
+          "Mission Bay",
+          "Auckland 1071",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495287494",
+      "display_phone": "+64 9 528 7494",
+      "distance": 6020.122478550603,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "z-zgeWi_3YrvKDEXKEt9fg",
+      "alias": "mexico-auckland-4",
+      "name": "Mexico",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/_4DeB9WgqQXRM66KX0_PVg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexico-auckland-4?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 75,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 3.6,
+      "coordinates": {
+        "latitude": -36.8452698,
+        "longitude": 174.7702693
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "23 Britomart Pl",
+        "address2": "Britomart",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "23 Britomart Pl",
+          "Britomart",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493661759",
+      "display_phone": "+64 9 366 1759",
+      "distance": 1637.7684295607582,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0000",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0000",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0000",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0000",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0000",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0000",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0000",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "_f8HOdek0fyp4eyP-BY6Gg",
+      "alias": "the-lucky-taco-auckland",
+      "name": "The Lucky Taco",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/xmzlnFlqZhTKGQa6qmZ41A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-lucky-taco-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 9,
+      "categories": [
+        {
+          "alias": "foodtrucks",
+          "title": "Food Trucks"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": -36.8524208,
+        "longitude": 174.7448425
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "230 Ponsonby Road",
+        "address2": "Ponsonby",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "230 Ponsonby Road",
+          "Ponsonby",
+          "Auckland 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2099.537100402101,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "Uv6iRhnt-O4kYtM5J2ynWQ",
+      "alias": "mad-mex-auckland-7",
+      "name": "Mad Mex",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/P1OGh-c0FGLafL7WDUGDYQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mad-mex-auckland-7?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.9172036103996,
+        "longitude": 174.908728578925
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "588 Chapel Rd",
+        "address2": "Botany Town Centre",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "2013",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "588 Chapel Rd",
+          "Botany Town Centre",
+          "Auckland 2013",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6492715295",
+      "display_phone": "+64 9 271 5295",
+      "distance": 14183.793988204088,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.madmex.co.nz/#menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "FlncS8arI73_o0PY5RRGEg",
+      "alias": "cielito-lindo-henderson",
+      "name": "Cielito Lindo",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/m28m8chv0vVrq4IhK_Fyfg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cielito-lindo-henderson?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.84706,
+        "longitude": 174.6333
+      },
+      "transactions": [],
+      "location": {
+        "address1": "14 The Concourse",
+        "address2": "",
+        "address3": null,
+        "city": "Henderson",
+        "zip_code": "0610",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "14 The Concourse",
+          "Henderson 0610",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498351828",
+      "display_phone": "+64 9 835 1828",
+      "distance": 11915.664263578989,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "p4Sa55TxRONWABQseoipUg",
+      "alias": "flying-burito-brothers-auckland",
+      "name": "Flying Burito Brothers",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/haUjpyngg212CplU9hSS_w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/flying-burito-brothers-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8670921,
+        "longitude": 174.7775421
+      },
+      "transactions": [],
+      "location": {
+        "address1": "65 Davies Crescent",
+        "address2": "Newmarket",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "2104",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "65 Davies Crescent",
+          "Newmarket",
+          "Auckland 2104",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 1279.6706715431746,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "vSAb2BDS96Iw-137UCVs6w",
+      "alias": "mexico-auckland-8",
+      "name": "Mexico",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/i5udtSD63cQZwKaksdu2ag/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexico-auckland-8?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 16,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.8551216,
+        "longitude": 174.7459412
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "164 Ponsonby Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "164 Ponsonby Rd",
+          "Auckland 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6492803919",
+      "display_phone": "+64 9 280 3919",
+      "distance": 1882.6308663055347,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "1200",
+              "end": "0200",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "1200",
+              "end": "0200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://mexico.net.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "kUMggIfJ7HEWUplcBPmKzA",
+      "alias": "mexican-specialities-auckland",
+      "name": "Mexican Specialities",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Cpc_EFunVeHQsBB4syrrrA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexican-specialities-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 17,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "importedfood",
+          "title": "Imported Food"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": -36.8911285,
+        "longitude": 174.8220978
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "92 Marua Rd",
+        "address2": "Ellerslie",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1051",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "92 Marua Rd",
+          "Ellerslie",
+          "Auckland 1051",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495802497",
+      "display_phone": "+64 9 580 2497",
+      "distance": 6050.644786225143,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1500",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1330",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "zUQqV2zyT-eFC5p_neg8xQ",
+      "alias": "mexicali-fresh-auckland-7",
+      "name": "Mexicali Fresh",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/sfk4_NvSOjPAi6WWlG9xOA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexicali-fresh-auckland-7?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.2,
+      "coordinates": {
+        "latitude": -36.8478663,
+        "longitude": 174.7619367
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "103 Victoria Street West",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "103 Victoria Street West",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493032656",
+      "display_phone": "+64 9 303 2656",
+      "distance": 1370.6899385549661,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.mexicalifresh.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "_AqVGXrVLZ0sLgFNjmac1g",
+      "alias": "zambrero-auckland-2",
+      "name": "Zambrero",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/FYvF-vbjtIfC8Bn1sEy5jg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/zambrero-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": -36.8471090807034,
+        "longitude": 174.76625077946
+      },
+      "transactions": [],
+      "location": {
+        "address1": "118 Queen St",
+        "address2": "Vulcan Lane",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "118 Queen St",
+          "Vulcan Lane",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493735043",
+      "display_phone": "+64 9 373 5043",
+      "distance": 1396.4783026336318,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://zambrero.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "325StgxHahU6RIQc6noSVQ",
+      "alias": "besos-latinos-auckland",
+      "name": "Besos Latinos",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/UdJH5dBaJte6eqMdC9yqHw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/besos-latinos-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 28,
+      "categories": [
+        {
+          "alias": "latin",
+          "title": "Latin American"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "musicvenues",
+          "title": "Music Venues"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.8501529977687,
+        "longitude": 174.763598442078
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "39 Elliott St",
+        "address2": "Shop M16, Elliott Stables",
+        "address3": "CBD",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "39 Elliott St",
+          "Shop M16, Elliott Stables",
+          "CBD",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493030217",
+      "display_phone": "+64 9 303 0217",
+      "distance": 1086.6794047749477,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0100",
+              "end": "2000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.besoslatinos.com/?page_id=37",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "kPx1xHwjvpo_75ZR9D_mQA",
+      "alias": "mexico-auckland-9",
+      "name": "Mexico",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/hBhYo4QHm0S5mPtmJelf1g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexico-auckland-9?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -37.0047777937773,
+        "longitude": 174.783564334381
+      },
+      "transactions": [],
+      "location": {
+        "address1": "139 Ray Emery Dr",
+        "address2": "",
+        "address3": "Auckland International Airport",
+        "city": "Auckland",
+        "zip_code": "2022",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "139 Ray Emery Dr",
+          "Auckland International Airport",
+          "Auckland 2022",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 16207.58105399575,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.mexico.net.nz/s/MEX-AP-A5-menu-SEP18-s.pdf",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "RfeMhVjlvJPCNNcQY3_yPQ",
+      "alias": "mexico-auckland-3",
+      "name": "Mexico",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/cJR3D1gl8y0a9Oejh5xw7g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexico-auckland-3?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 23,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "tapasmallplates",
+          "title": "Tapas/Small Plates"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.7887865195513,
+        "longitude": 174.773190021515
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "4 The Strand",
+        "address2": "Takapuna",
+        "address3": "North Shore",
+        "city": "Auckland",
+        "zip_code": "0622",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "4 The Strand",
+          "Takapuna",
+          "North Shore",
+          "Auckland 0622",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6492801487",
+      "display_phone": "+64 9 280 1487",
+      "distance": 7904.811014787857,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "CDF6cUmPqHllFgUdk1myRA",
+      "alias": "mad-mex-auckland",
+      "name": "Mad Mex",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/40ONXF8wQWfC8TZyvxLhrQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mad-mex-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.8460345,
+        "longitude": 174.7671703
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "16 Fort Street",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "16 Fort Street",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 1517.5102035735306,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "RFPuFYrun9rQbt_c1ZvwyQ",
+      "alias": "taqueria-auckland",
+      "name": "Taqueria",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/K-H9VsS5FsVV7bmN_CU_NQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/taqueria-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8550545,
+        "longitude": 174.7460162
+      },
+      "transactions": [],
+      "location": {
+        "address1": "166 Ponsonby Rd",
+        "address2": "Ponsonby",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "166 Ponsonby Rd",
+          "Ponsonby",
+          "Auckland 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493600076",
+      "display_phone": "+64 9 360 0076",
+      "distance": 1883.6656041989897,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "Cig0aTN2acxsmzDwIiFxJg",
+      "alias": "mexican-cafe-auckland",
+      "name": "Mexican Cafe",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/oz_I4zxbneqb2DdxJxKdLQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexican-cafe-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 51,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "danceclubs",
+          "title": "Dance Clubs"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.8482208,
+        "longitude": 174.7630463
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "67 Victoria St",
+        "address2": "Auckland Central",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "67 Victoria St",
+          "Auckland Central",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493732311",
+      "display_phone": "+64 9 373 2311",
+      "distance": 1314.1119896898756,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.mexicancafe.co.nz/menus/food/dinner.cfm",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "JTjPZiu_LzsvP3OLI8YaRQ",
+      "alias": "mexicali-fresh-auckland-6",
+      "name": "Mexicali Fresh",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/db9t9_rkmvhExMHI--yH6A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexicali-fresh-auckland-6?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.7479864,
+        "longitude": 174.7324585
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "32 Constellation Drive",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0632",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "32 Constellation Drive",
+          "Auckland 0632",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494763179",
+      "display_phone": "+64 9 476 3179",
+      "distance": 12780.48797358697,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.mexicalifresh.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "BohaP4sHUK0hOIyGwf_Ipw",
+      "alias": "zambrero-auckland-3",
+      "name": "Zambrero",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/xRxMw0aecVNqXfuw_dMeLw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/zambrero-auckland-3?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "tex-mex",
+          "title": "Tex-Mex"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": -36.72018,
+        "longitude": 174.71034
+      },
+      "transactions": [],
+      "location": {
+        "address1": "252 Oteha Valley Rd",
+        "address2": "Albany",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0632",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "252 Oteha Valley Rd",
+          "Albany",
+          "Auckland 0632",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494481188",
+      "display_phone": "+64 9 448 1188",
+      "distance": 16264.21891692704,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2130",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://zambrero.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "buI8H44RS0EGfZkhH2B3Jw",
+      "alias": "ghost-donkey-no-title",
+      "name": "Ghost Donkey",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/FUCVb2R0sVqdOhKlDSYrrg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ghost-donkey-no-title?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 2.7,
+      "coordinates": {
+        "latitude": -36.84366,
+        "longitude": 174.76625
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Shop No RV2, Level Two, 7 Queen St,",
+        "address2": "Commercial Bay",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Shop No RV2, Level Two, 7 Queen St,",
+          "Commercial Bay",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498697147",
+      "display_phone": "+64 9 869 7147",
+      "distance": 4118.385295577665,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2230",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2230",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2230",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "1JT09XA1nwMuM_WRC6q5DA",
+      "alias": "coreano-ponsonby-2",
+      "name": "Coreano",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/qlXMcvLUxEODHUUPVjEJsA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/coreano-ponsonby-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "foodstands",
+          "title": "Food Stands"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8568123,
+        "longitude": 174.746998
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "130 Ponsonby Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Ponsonby",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "130 Ponsonby Rd",
+          "Ponsonby 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6421716936",
+      "display_phone": "+64 21 716 936",
+      "distance": 1754.0814855175656,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "GBudpwiaoDTz7HSqxrF8PQ",
+      "alias": "mama-loco-auckland-2",
+      "name": "Mama Loco",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/lVhJv4MNORxudHcBtRUnsw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mama-loco-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.2,
+      "coordinates": {
+        "latitude": -36.9152095407848,
+        "longitude": 174.843446798623
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "Sylvia Park Mall",
+        "address2": "Mt Wellington",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1060",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Sylvia Park Mall",
+          "Mt Wellington",
+          "Auckland 1060",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495730194",
+      "display_phone": "+64 9 573 0194",
+      "distance": 9225.51144607297,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "p-o6NEE2emthVBk9n9QGvg",
+      "alias": "mexicali-fresh-auckland-5",
+      "name": "Mexicali Fresh",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/SXwW5ybpsF9vGMnJnpr4bw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexicali-fresh-auckland-5?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 22,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.8422970568598,
+        "longitude": 174.764778614044
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "137 Quay Street",
+        "address2": "Princes Wharf",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "137 Quay Street",
+          "Princes Wharf",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493072419",
+      "display_phone": "+64 9 307 2419",
+      "distance": 1936.7977083829371,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2200",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.mexicalifresh.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "vxF37TLHK-arbpCB8na0YA",
+      "alias": "frida-auckland",
+      "name": "Frida",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/WF_sf3tynjyCq1A0pRHrwQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/frida-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 20,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 2.8,
+      "coordinates": {
+        "latitude": -36.843254,
+        "longitude": 174.763048516633
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "85-89 Customs St West",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "85-89 Customs St West",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493567090",
+      "display_phone": "+64 9 356 7090",
+      "distance": 1849.1190159544637,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "fR-s2nRdA0YnPWV7tvoXNw",
+      "alias": "culprit-auckland",
+      "name": "Culprit",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/x93wjTo6X8rNbrAFvr2DUw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/culprit-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 15,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "newzealand",
+          "title": "New Zealand"
+        }
+      ],
+      "rating": 4.9,
+      "coordinates": {
+        "latitude": -36.8472807369516,
+        "longitude": 174.765146102108
+      },
+      "transactions": [],
+      "location": {
+        "address1": "12 Wyndham St",
+        "address2": "",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "12 Wyndham St",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493775992",
+      "display_phone": "+64 9 377 5992",
+      "distance": 1381.762534411049,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2200",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.culprit.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "7bVZbL-637V3k0rqfREoDw",
+      "alias": "the-flying-burrito-brothers-auckland",
+      "name": "The Flying Burrito Brothers",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/U5eZ1Oq2ZRvT1-B_hJ-91Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-flying-burrito-brothers-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 11,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 2.8,
+      "coordinates": {
+        "latitude": -36.722769,
+        "longitude": 174.70463
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "270 Oteha Valley Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0632",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "270 Oteha Valley Rd",
+          "Auckland 0632",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495572731",
+      "display_phone": "+64 9 557 2731",
+      "distance": 16185.317455658542,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "BqXdfeDTuQQ10-3MWjXdmA",
+      "alias": "the-flying-burrito-brothers-auckland-2",
+      "name": "The Flying Burrito Brothers",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/y7WkUreBwVCZZ8rpv4UCBQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-flying-burrito-brothers-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 8,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.8670921,
+        "longitude": 174.7775421
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "65 Davis Crescent",
+        "address2": "Newmarket",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1023",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "65 Davis Crescent",
+          "Newmarket",
+          "Auckland 1023",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498879287",
+      "display_phone": "+64 9 887 9287",
+      "distance": 1279.6706715431746,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "c4OlYdzHEIdNebmCxtyKuQ",
+      "alias": "hola-burritos-auckland",
+      "name": "Hola Burritos",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8pSREZg5iVryrTlIoM2x8w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/hola-burritos-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8129436325299,
+        "longitude": 174.727516695857
+      },
+      "transactions": [],
+      "location": {
+        "address1": "217 Hinemoa Street",
+        "address2": "Birkenhead",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0626",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "217 Hinemoa Street",
+          "Birkenhead",
+          "Auckland 0626",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494198692",
+      "display_phone": "+64 9 419 8692",
+      "distance": 6241.7714821279305,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "KXLIUPk1dQkSN_ogpMQ4kg",
+      "alias": "mexico-auckland-6",
+      "name": "Mexico",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/CtrUhPUFOGQl_jzq-XhJog/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexico-auckland-6?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 22,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "tapasmallplates",
+          "title": "Tapas/Small Plates"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.8976845664407,
+        "longitude": 174.809289253268
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "120 Main Highway",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1051",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "120 Main Highway",
+          "Auckland 1051",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6492812714",
+      "display_phone": "+64 9 281 2714",
+      "distance": 5694.829799171512,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "FGMZMVBKFlqjbdeD6hdYnA",
+      "alias": "mexicali-fresh-mission-bay",
+      "name": "Mexicali Fresh",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/2TdMXJpoG1h0vCjKKqmZMQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexicali-fresh-mission-bay?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.8479117648918,
+        "longitude": 174.829659880106
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1/33 Tamaki Drive",
+        "address2": "",
+        "address3": "",
+        "city": "Mission Bay",
+        "zip_code": "1071",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "1/33 Tamaki Drive",
+          "Mission Bay 1071",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495286111",
+      "display_phone": "+64 9 528 6111",
+      "distance": 5779.363066327549,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.mexicalifresh.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "CxswDL7MY7IPoXcGkIVGbQ",
+      "alias": "mexicali-fresh-auckland-4",
+      "name": "Mexicali Fresh",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Jyjb7YXmCg3RETU_kRnjCw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexicali-fresh-auckland-4?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 12,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 2.7,
+      "coordinates": {
+        "latitude": -36.8583941,
+        "longitude": 174.7603215
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "150 Karangahape Road, Suite 102",
+        "address2": "Newton",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "150 Karangahape Road, Suite 102",
+          "Newton",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493745938",
+      "display_phone": "+64 9 374 5938",
+      "distance": 557.9851274732827,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.mexicalifresh.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "pMkzoWUR4BK0Nr9eQS9diA",
+      "alias": "brew-on-quay-auckland",
+      "name": "Brew On Quay",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fMutE-ZASbkd7scg7ZtnXw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/brew-on-quay-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 37,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "tapasmallplates",
+          "title": "Tapas/Small Plates"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": -36.8444724,
+        "longitude": 174.7706874
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "102 Quay St",
+        "address2": "",
+        "address3": "Auckland Central",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "102 Quay St",
+          "Auckland Central",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493022085",
+      "display_phone": "+64 9 302 2085",
+      "distance": 1732.3764235311678,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "1100",
+              "end": "0100",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "1100",
+              "end": "0100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "nZgSOZF_pmG1-Pab0xilVQ",
+      "alias": "pakuranga-night-market-auckland",
+      "name": "Pakuranga Night Market",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/p4Y5XGPwjOEZlnCqfAgBCg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pakuranga-night-market-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 9,
+      "categories": [
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        },
+        {
+          "alias": "farmersmarket",
+          "title": "Farmers Market"
+        },
+        {
+          "alias": "streetvendors",
+          "title": "Street Vendors"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": -36.9121453835208,
+        "longitude": 174.869803235352
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "Westfield Pakuranga",
+        "address2": "Cnr Ti Rakau Drive & Pakuranga Rd",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "2010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Westfield Pakuranga",
+          "Cnr Ti Rakau Drive & Pakuranga Rd",
+          "Auckland 2010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495765223",
+      "display_phone": "+64 9 576 5223",
+      "distance": 10892.373043163467,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1800",
+              "end": "0000",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "JS0lCi963pM2gjPdvG3V8Q",
+      "alias": "cali-auckland-2",
+      "name": "Cali",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Goqi4H5DI5AD4ble54wmvQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cali-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 14,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": -36.8707146704514,
+        "longitude": 174.778026455798
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "23-27 Nuffield St",
+        "address2": "Newmarket",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1023",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "23-27 Nuffield St",
+          "Newmarket",
+          "Auckland 1023",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495234554",
+      "display_phone": "+64 9 523 4554",
+      "distance": 1606.5362902093966,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1900",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "hcoNdPfM0hkp3hpgXt-W3Q",
+      "alias": "miss-clawdy-auckland",
+      "name": "Miss Clawdy",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/asLf6FLbJAX1y3RBj6XEeQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/miss-clawdy-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 40,
+      "categories": [
+        {
+          "alias": "southern",
+          "title": "Southern"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "cajun",
+          "title": "Cajun/Creole"
+        }
+      ],
+      "rating": 3.4,
+      "coordinates": {
+        "latitude": -36.8410038,
+        "longitude": 174.7573602
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "12 Jellicoe Street",
+        "address2": "North Wharf",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "12 Jellicoe Street",
+          "North Wharf",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6499696986",
+      "display_phone": "+64 9 969 6986",
+      "distance": 2225.336817494195,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "uNF3JGuMnDX3iSTrIAggsw",
+      "alias": "the-jefferson-auckland",
+      "name": "The Jefferson",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/mKhDlRNTy7Tqb6GlhrO0ag/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-jefferson-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 12,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "newzealand",
+          "title": "New Zealand"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -36.84545,
+        "longitude": 174.76726
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "Imperial Building",
+        "address2": "Fort Lane",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Imperial Building",
+          "Fort Lane",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+64210440393",
+      "display_phone": "+64 210 440 393",
+      "distance": 1583.322855157265,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "1600",
+              "end": "0100",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "1600",
+              "end": "0100",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "1600",
+              "end": "0100",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "1600",
+              "end": "0100",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "1600",
+              "end": "0300",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "1600",
+              "end": "0300",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.thejefferson.co.nz/menus",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "KpCWd5mIHcbjfZjXE7KImg",
+      "alias": "chilando-auckland-2",
+      "name": "Chilando",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/x5GjOEylUnxlPpg-hvADBQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/chilando-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.8824850540898,
+        "longitude": 174.732712805271
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Westfield Saint Lukes Level 1 Food Court",
+        "address2": "80 Saint Lukes Rd",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1025",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Westfield Saint Lukes Level 1 Food Court",
+          "80 Saint Lukes Rd",
+          "Auckland 1025",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498158604",
+      "display_phone": "+64 9 815 8604",
+      "distance": 3925.649323566296,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1730",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "2RjDz6y2hw0EwQNId5ijRQ",
+      "alias": "mad-mex-auckland-2",
+      "name": "Mad Mex",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/SvenNgtG-ey0zqg--eQAIQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mad-mex-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 2.8,
+      "coordinates": {
+        "latitude": -36.8573303,
+        "longitude": 174.7479858
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "108 Ponsonby Rd",
+        "address2": "Ponsonby",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "108 Ponsonby Rd",
+          "Ponsonby",
+          "Auckland 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493781846",
+      "display_phone": "+64 9 378 1846",
+      "distance": 1656.2057111162246,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "oeWcg5ouUaRHp_NNSvZR6g",
+      "alias": "citizen-park-auckland",
+      "name": "Citizen Park",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/hOOKn-nSDh1aH2ouTWOeYw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/citizen-park-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 24,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "tradamerican",
+          "title": "American"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.8719638,
+        "longitude": 174.7457704
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "424 New North Road",
+        "address2": "Kingsland",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1021",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "424 New North Road",
+          "Kingsland",
+          "Auckland 1021",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498464964",
+      "display_phone": "+64 9 846 4964",
+      "distance": 2287.702934709055,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "1130",
+              "end": "0100",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "1130",
+              "end": "0200",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "1130",
+              "end": "0200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "G1j4N4RuWfQc5quQuB5kuA",
+      "alias": "mama-loco-auckland",
+      "name": "Mama Loco",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/znIxn8ZbOPFIOGvsdr6TEw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mama-loco-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 14,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.4,
+      "coordinates": {
+        "latitude": -36.7281522,
+        "longitude": 174.7079397
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "219 Don McKinnon Drive",
+        "address2": "Albany Highway",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0632",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "219 Don McKinnon Drive",
+          "Albany Highway",
+          "Auckland 0632",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494441076",
+      "display_phone": "+64 9 444 1076",
+      "distance": 15522.320997167575,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "Jp1Wgn2SPw_wrg8RBRVZ1A",
+      "alias": "cantina-rialto-newmarket",
+      "name": "Cantina Rialto",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fhzjewVm0rpVAibQCVzrkw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cantina-rialto-newmarket?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.8683917,
+        "longitude": 174.7777884
+      },
+      "transactions": [],
+      "location": {
+        "address1": "163 Broadway",
+        "address2": "",
+        "address3": "",
+        "city": "Newmarket",
+        "zip_code": "1023",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "163 Broadway",
+          "Newmarket 1023",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495291544",
+      "display_phone": "+64 9 529 1544",
+      "distance": 1403.4638918384676,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.cantinamexican.co.nz/cantina-mexican-newmarket",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "q2-92CfzewFEZ4bkNk8zWg",
+      "alias": "ricas-tortas-britomart",
+      "name": "Rica's Tortas",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/J2PV5fzLxUxhYOmPbLHmZA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ricas-tortas-britomart?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.9246101,
+        "longitude": 174.7880554
+      },
+      "transactions": [],
+      "location": {
+        "address1": "51 Galway St",
+        "address2": "",
+        "address3": "",
+        "city": "Britomart",
+        "zip_code": "1061",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "51 Galway St",
+          "Britomart 1061",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493661759",
+      "display_phone": "+64 9 366 1759",
+      "distance": 7472.749730678586,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1600",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1600",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1600",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1600",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1600",
+              "day": 4
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://tortas.co.nz/#menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "EFD-ttFTWXWKfnMxVazioA",
+      "alias": "toro-churro-auckland-cbd",
+      "name": "Toro Churro",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/umG6j0xftYxyhXz9C0uSAg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/toro-churro-auckland-cbd?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 12,
+      "categories": [
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        },
+        {
+          "alias": "spanish",
+          "title": "Spanish"
+        },
+        {
+          "alias": "streetvendors",
+          "title": "Street Vendors"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": -36.85206928957,
+        "longitude": 174.764209191804
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "350 Queen St",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland CBD",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "350 Queen St",
+          "Auckland CBD 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+64210601735",
+      "display_phone": "+64 210 601 735",
+      "distance": 866.8285142215205,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "FtDumUHUcGW-OvjsnjsqeQ",
+      "alias": "mexicali-fresh-auckland-10",
+      "name": "Mexicali Fresh",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/-NTtCF74kjOc3f88DAv8qw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexicali-fresh-auckland-10?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "tex-mex",
+          "title": "Tex-Mex"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.9641697539782,
+        "longitude": 174.902109468154
+      },
+      "transactions": [],
+      "location": {
+        "address1": "125 Ormiston Rd",
+        "address2": "Flat Bush",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "2019",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "125 Ormiston Rd",
+          "Flat Bush",
+          "Auckland 2019",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6492651911",
+      "display_phone": "+64 9 265 1911",
+      "distance": 16751.991814845667,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.mexicalifresh.co.nz/menusnapshot/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "MxTUjGzqIiCZiJcXHR5B4g",
+      "alias": "zambrero-no-title-2",
+      "name": "Zambrero",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/ECxBGEpkGkD6iPkLeCy1Yg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/zambrero-no-title-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.85817,
+        "longitude": 174.75932
+      },
+      "transactions": [],
+      "location": {
+        "address1": "238 Karanaghape Road",
+        "address2": null,
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "238 Karanaghape Road",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493370892",
+      "display_phone": "+64 9 337 0892",
+      "distance": 650.1614626903755,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2300",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "hsrY5OV_FAqc17ooZF8RJQ",
+      "alias": "zambrero-auckland",
+      "name": "Zambrero",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fjqlRPP3ikJWYQ6CEZ-c8w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/zambrero-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "tex-mex",
+          "title": "Tex-Mex"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.9001389,
+        "longitude": 174.9240875
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "Elliot St",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "2014",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Elliot St",
+          "Auckland 2014",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493370501",
+      "display_phone": "+64 9 337 0501",
+      "distance": 14697.48164454524,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://zambrero.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "G2xCGWNWI2pFG0bW0iJyEQ",
+      "alias": "fortieth-and-hurstmere-auckland",
+      "name": "Fortieth & Hurstmere",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Uy24Vf-JHKb40j5XDhGHOQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/fortieth-and-hurstmere-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "salad",
+          "title": "Salad"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "bbq",
+          "title": "Barbeque"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": -36.7876511,
+        "longitude": 174.7724915
+      },
+      "transactions": [],
+      "location": {
+        "address1": "40 Hurstmere Rd",
+        "address2": "Takapuna",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0622",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "40 Hurstmere Rd",
+          "Takapuna",
+          "Auckland 0622",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 8026.209087221558,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "ZVf1hLgPUlKy2aPcz_8vug",
+      "alias": "zambrero-glenfield-mall-auckland",
+      "name": "Zambrero - Glenfield Mall",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8KhUTHH7sCIp07mEaVFLRQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/zambrero-glenfield-mall-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.78339,
+        "longitude": 174.72384
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Shop 5520A",
+        "address2": "Downing St",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0629",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Shop 5520A",
+          "Downing St",
+          "Auckland 0629",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496003216",
+      "display_phone": "+64 9 600 3216",
+      "distance": 9288.809805036226,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "ob1yQa7JM1wLIv8DNHYTpg",
+      "alias": "the-grill-auckland",
+      "name": "The Grill",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/IaWwVLnQd-r1Tz-MKe4Jog/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-grill-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 48,
+      "categories": [
+        {
+          "alias": "steak",
+          "title": "Steakhouses"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": -36.849199,
+        "longitude": 174.7623803
+      },
+      "transactions": [],
+      "price": "$$$$",
+      "location": {
+        "address1": "90 Federal St",
+        "address2": "Auckland CBD",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "90 Federal St",
+          "Auckland CBD",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493637067",
+      "display_phone": "+64 9 363 7067",
+      "distance": 1217.4265887943698,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2130",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.skycityauckland.co.nz/Restaurants/The-Grill/Menus.html",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "ryWGa0YjC9G4LIyxUqfBGA",
+      "alias": "mad-mex-auckland-6",
+      "name": "Mad Mex",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/u7Dg55vRLxhaR0LsqMe-qg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mad-mex-auckland-6?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.8182121150115,
+        "longitude": 174.611235258789
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Maki St",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Maki St",
+          "Auckland",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 14556.470255104745,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "kzfMOfOUlL5RtDbX0cTJhg",
+      "alias": "cereal-killa-auckland",
+      "name": "Cereal Killa",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/h0_IpHjxDXsS3o8gfVmKYg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cereal-killa-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 31,
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.880126,
+        "longitude": 174.7504065
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "360H Dominion Rd",
+        "address2": "Mt Eden",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1024",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "360H Dominion Rd",
+          "Mt Eden",
+          "Auckland 1024",
+          "New Zealand"
+        ]
+      },
+      "phone": "+64211006651",
+      "display_phone": "+64 21 100 6651",
+      "distance": 2682.567484909925,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "k2y8sAy_zH-r54wKlElTeA",
+      "alias": "cafe-cezanne-auckland",
+      "name": "Cafe Cezanne",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/LSXChKjUbZwjWYILVGSs3g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cafe-cezanne-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 20,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 3.7,
+      "coordinates": {
+        "latitude": -36.8489723,
+        "longitude": 174.7438202
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "296 Ponsonby Rd",
+        "address2": "Ponsonby",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "296 Ponsonby Rd",
+          "Ponsonby",
+          "Auckland 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493763338",
+      "display_phone": "+64 9 376 3338",
+      "distance": 2348.153443768772,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2230",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2230",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2230",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "-o6a-0KSAXRUxVwugGjt5g",
+      "alias": "misters-auckland",
+      "name": "Misters",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8qnTyAI8Rd7TCLLQC45n9g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/misters-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 24,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "salad",
+          "title": "Salad"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": -36.8473396,
+        "longitude": 174.7650452
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "12 Wyndham",
+        "address2": "Central City",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "12 Wyndham",
+          "Central City",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493799939",
+      "display_phone": "+64 9 379 9939",
+      "distance": 1371.1029862138898,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1500",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "IHKsQaF-ephVk7dwfotc4w",
+      "alias": "ralphs-auckland",
+      "name": "Ralph's",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8AuhE9OALK1yiq4LMdRkmQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ralphs-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "tradamerican",
+          "title": "American"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        },
+        {
+          "alias": "tex-mex",
+          "title": "Tex-Mex"
+        }
+      ],
+      "rating": 3.7,
+      "coordinates": {
+        "latitude": -36.8757515,
+        "longitude": 174.750885
+      },
+      "transactions": [],
+      "location": {
+        "address1": "225B Dominion Rd",
+        "address2": "Mt Eden",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1024",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "225B Dominion Rd",
+          "Mt Eden",
+          "Auckland 1024",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6492149369",
+      "display_phone": "+64 9 214 9369",
+      "distance": 2258.051436084565,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "1500",
+              "end": "0100",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "1500",
+              "end": "0100",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "1500",
+              "end": "0100",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "1500",
+              "end": "0100",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "1500",
+              "end": "0100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "oHFXBgAyAeCHnJKozfzolg",
+      "alias": "urban-soul-auckland",
+      "name": "Urban Soul",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/GN6QL5kB-rbPgalDP-32yA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/urban-soul-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 36,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "venues",
+          "title": "Venues & Event Spaces"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": -36.9873097617125,
+        "longitude": 174.882652988456
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "652 Great South Rd",
+        "address2": "Manukau",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "2104",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "652 Great South Rd",
+          "Manukau",
+          "Auckland 2104",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6492622435",
+      "display_phone": "+64 9 262 2435",
+      "distance": 17557.391277846167,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1630",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1630",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1630",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1630",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "Qj3JjJ9ettXfYfNB4hh19g",
+      "alias": "lenin-auckland",
+      "name": "Lenin",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/P_RJn85tfn-4K9Dwi6z-gw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/lenin-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        }
+      ],
+      "rating": 3.2,
+      "coordinates": {
+        "latitude": -36.842134,
+        "longitude": 174.764741
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "Princes Wharf",
+        "address2": "201 Quay Street",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Princes Wharf",
+          "201 Quay Street",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493779865",
+      "display_phone": "+64 9 377 9865",
+      "distance": 1955.1276360130303,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "1600",
+              "end": "0300",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "1600",
+              "end": "0300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "-Fuv7VFeg7-I-3SxL-CyYQ",
+      "alias": "mexi-kai-auckland",
+      "name": "Mexi Kai",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/h3cWcK9Md1oMSzuay5x9Jg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexi-kai-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "streetvendors",
+          "title": "Street Vendors"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.7,
+      "coordinates": {
+        "latitude": -36.8484597,
+        "longitude": 174.7633315
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Auckland",
+          "New Zealand"
+        ]
+      },
+      "phone": "+64800343782",
+      "display_phone": "+64 800 343 782",
+      "distance": 1275.5687924376698,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "7U6Rb6AkGorazegrtzQp-Q",
+      "alias": "crate-cafe-auckland",
+      "name": "Crate Cafe",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/w6Qu4esMPopvFPWIoQ6Vhw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/crate-cafe-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        }
+      ],
+      "rating": 3.4,
+      "coordinates": {
+        "latitude": -36.8795502,
+        "longitude": 174.7338535
+      },
+      "transactions": [],
+      "location": {
+        "address1": "55 Sainsbury Rd",
+        "address2": "Mount Albert",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1025",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "55 Sainsbury Rd",
+          "Mount Albert",
+          "Auckland 1025",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498494175",
+      "display_phone": "+64 9 849 4175",
+      "distance": 3641.969213808858,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1600",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1630",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1630",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "bcmUScUZB9GDLiBvTibLUg",
+      "alias": "the-shakespeare-hotel-auckland-2",
+      "name": "The Shakespeare Hotel",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fgMXqAjhdnof3ua9TIa7IQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-shakespeare-hotel-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 23,
+      "categories": [
+        {
+          "alias": "pubs",
+          "title": "Pubs"
+        },
+        {
+          "alias": "british",
+          "title": "British"
+        },
+        {
+          "alias": "hotels",
+          "title": "Hotels"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": -36.8467712,
+        "longitude": 174.7640381
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "61 Albert St",
+        "address2": null,
+        "address3": "Auckland Central",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "61 Albert St",
+          "Auckland Central",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493735396",
+      "display_phone": "+64 9 373 5396",
+      "distance": 1452.711640008278,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1500",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1700",
+              "end": "2000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2030",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2030",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2030",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2030",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2030",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "w6YjltqmoxQJ7tuSUMiWAA",
+      "alias": "vultures-lane-auckland",
+      "name": "Vultures' Lane",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/esXtZNVFZhH6o5cR8nfH5Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/vultures-lane-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 19,
+      "categories": [
+        {
+          "alias": "pubs",
+          "title": "Pubs"
+        },
+        {
+          "alias": "beerbar",
+          "title": "Beer Bar"
+        },
+        {
+          "alias": "restaurants",
+          "title": "Restaurants"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": -36.8470477438266,
+        "longitude": 174.766448959708
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "10 Vulcan Ln",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "10 Vulcan Ln",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493007117",
+      "display_phone": "+64 9 300 7117",
+      "distance": 1403.255822156782,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "js1h4vx84Jf7GecLq8dkHg",
+      "alias": "mexicali-fresh-ponsonby",
+      "name": "Mexicali Fresh",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexicali-fresh-ponsonby?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.7,
+      "coordinates": {
+        "latitude": -36.8543807164815,
+        "longitude": 174.745617014567
+      },
+      "transactions": [],
+      "location": {
+        "address1": "166 Ponsonby Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Ponsonby",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "166 Ponsonby Rd",
+          "Ponsonby 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493600076",
+      "display_phone": "+64 9 360 0076",
+      "distance": 1939.2533328218772,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "1000",
+              "end": "0300",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "1000",
+              "end": "0300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.mexicalifresh.co.nz/menu/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "qSpWk6V6tY8EqS4XFwA_9g",
+      "alias": "pintxos-auckland",
+      "name": "Pintxos",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/SQflvycgy7QX3_Y4rvOG_g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pintxos-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "basque",
+          "title": "Basque"
+        },
+        {
+          "alias": "tapas",
+          "title": "Tapas Bars"
+        },
+        {
+          "alias": "wine_bars",
+          "title": "Wine Bars"
+        }
+      ],
+      "rating": 2.8,
+      "coordinates": {
+        "latitude": -36.8571898,
+        "longitude": 174.7476435
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "120C Ponsonby Road",
+        "address2": "",
+        "address3": "Ponsonby",
+        "city": "Auckland",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "120C Ponsonby Road",
+          "Ponsonby",
+          "Auckland 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493601260",
+      "display_phone": "+64 9 360 1260",
+      "distance": 1690.2810177734875,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "QXWXzj5MNlYHs1BVzXYY9A",
+      "alias": "little-bird-kitchen-auckland",
+      "name": "Little Bird Kitchen",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/dR8qby0TSyI0GuKLMJjC9g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/little-bird-kitchen-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 46,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "organic_stores",
+          "title": "Organic Stores"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": -36.85174,
+        "longitude": 174.74425
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1 A Summer Street",
+        "address2": "Ponsonby",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1011",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "1 A Summer Street",
+          "Ponsonby",
+          "Auckland 1011",
+          "New Zealand"
+        ]
+      },
+      "phone": "+64276484757",
+      "display_phone": "+64 27 648 4757",
+      "distance": 2157.9170061078667,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://littlebirdorganics.co.nz/pages/little-bird-kitchen-menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "8z6dxcc8TnfEaj1iePg3cg",
+      "alias": "hola-burritos-pakuranga",
+      "name": "Hola Burritos",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/hola-burritos-pakuranga?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "foodstands",
+          "title": "Food Stands"
+        }
+      ],
+      "rating": 2.3,
+      "coordinates": {
+        "latitude": -36.913108,
+        "longitude": 174.871604
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "Shop 134",
+        "address2": "Pakuranga Plaza",
+        "address3": "",
+        "city": "Pakuranga",
+        "zip_code": "2010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Shop 134",
+          "Pakuranga Plaza",
+          "Pakuranga 2010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495766132",
+      "display_phone": "+64 9 576 6132",
+      "distance": 11084.900668704508,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "UgO81Y-Gb4Eg8BZPhgLbQA",
+      "alias": "the-original-california-burrito-company-auckland-4",
+      "name": "The Original California Burrito Company",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-original-california-burrito-company-auckland-4?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 2.0,
+      "coordinates": {
+        "latitude": -36.98744,
+        "longitude": 174.88229
+      },
+      "transactions": [],
+      "location": {
+        "address1": "652 Great South Rd",
+        "address2": "South Point Manukau",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "2104",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "652 Great South Rd",
+          "South Point Manukau",
+          "Auckland 2104",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 17534.91688145198,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "2100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "1V3m64qmE57XfzRq7_pfYw",
+      "alias": "star-kebabs-auckland",
+      "name": "Star kebabs",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/eIEDOIj0mU0iZkyToxVkcQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/star-kebabs-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "kebab",
+          "title": "Kebab"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.8448618,
+        "longitude": 174.767793
+      },
+      "transactions": [],
+      "location": {
+        "address1": "11-19 Customs Street West",
+        "address2": "Downtown Westfield 1F",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1010",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "11-19 Customs Street West",
+          "Downtown Westfield 1F",
+          "Auckland 1010",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493097612",
+      "display_phone": "+64 9 309 7612",
+      "distance": 1651.0508529276362,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "kmI-FuU1S832sMPs8sty5w",
+      "alias": "the-dominion-auckland",
+      "name": "The Dominion",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/l9a1eHHTWXj9_2maxDFINw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-dominion-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 13,
+      "categories": [
+        {
+          "alias": "pubs",
+          "title": "Pubs"
+        },
+        {
+          "alias": "modern_european",
+          "title": "Modern European"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": -36.8761063,
+        "longitude": 174.7511597
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "234 Dominion Rd, Mount Eden",
+        "address2": null,
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1024",
+        "country": "NZ",
+        "state": "BOP",
+        "display_address": [
+          "234 Dominion Rd, Mount Eden",
+          "Auckland 1024",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496232121",
+      "display_phone": "+64 9 623 2121",
+      "distance": 2250.4134498381995,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "1100",
+              "end": "0100",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "1100",
+              "end": "0100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "RqZDx9GjOaio2ZFCvgx1iw",
+      "alias": "rialto-auckland",
+      "name": "Rialto",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/7-GiDyPDmlFx6zFedDFnCw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/rialto-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 12,
+      "categories": [
+        {
+          "alias": "tapasmallplates",
+          "title": "Tapas/Small Plates"
+        },
+        {
+          "alias": "lounges",
+          "title": "Lounges"
+        },
+        {
+          "alias": "movietheaters",
+          "title": "Cinema"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": -36.8686077,
+        "longitude": 174.7778222
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "167 - 169 Broadway",
+        "address2": "Newmarket",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1023",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "167 - 169 Broadway",
+          "Newmarket",
+          "Auckland 1023",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493692417",
+      "display_phone": "+64 9 369 2417",
+      "distance": 1422.3194865382818,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "J02aF92F2IVz6ScDN_E8bQ",
+      "alias": "the-fridge-auckland",
+      "name": "The Fridge",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/xTrDs1Bv5ZtNOTqegb_rXA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-fridge-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 16,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "salad",
+          "title": "Salad"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": -36.872261,
+        "longitude": 174.7434082
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "507 New North Rd",
+        "address2": "Kingsland",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1021",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "507 New North Rd",
+          "Kingsland",
+          "Auckland 1021",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6498455321",
+      "display_phone": "+64 9 845 5321",
+      "distance": 2475.3017690948104,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1600",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1600",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1600",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1600",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1600",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1600",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "vct68L7G9LHkZgoEInM_mg",
+      "alias": "mad-mex-albany",
+      "name": "Mad Mex",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/CTHJk4n5NOTlLPn-JUG6Vw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mad-mex-albany?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.7281950136804,
+        "longitude": 174.70879856497
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "219 Don Mckinnon Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Albany",
+        "zip_code": "0632",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "219 Don Mckinnon Dr",
+          "Albany 0632",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 15492.353697457349,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "myI6zdcWP2LxYCZl6SZBPg",
+      "alias": "murray-piha",
+      "name": "Murray",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/LlCm-qwBBr8U7_ZaOTbbLA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/murray-piha?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "icecream",
+          "title": "Ice Cream & Frozen Yogurt"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": -36.955914,
+        "longitude": 174.468898
+      },
+      "transactions": [],
+      "location": {
+        "address1": "25 Marine Parade S",
+        "address2": "",
+        "address3": null,
+        "city": "Piha",
+        "zip_code": "0772",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "25 Marine Parade S",
+          "Piha 0772",
+          "New Zealand"
+        ]
+      },
+      "phone": "+64212056022",
+      "display_phone": "+64 21 205 6022",
+      "distance": 28533.393922216736,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "892U2m5EWckYiGiEzbfQVg",
+      "alias": "the-ginger-minx-auckland",
+      "name": "The Ginger Minx",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/j5N2VuJs993UrY-ZY4xOxw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-ginger-minx-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 9,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "musicvenues",
+          "title": "Music Venues"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": -36.87597,
+        "longitude": 174.75156
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "117 Valley Rd",
+        "address2": "Mt Eden",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1024",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "117 Valley Rd",
+          "Mt Eden",
+          "Auckland 1024",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6496232121",
+      "display_phone": "+64 9 623 2121",
+      "distance": 2241.8822087607555,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1600",
+              "end": "0000",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "CS88w8d6b-qoN6WZv7mdtA",
+      "alias": "mexico-auckland-7",
+      "name": "Mexico",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mexico-auckland-7?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.8977127779843,
+        "longitude": 174.81006410519
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Ellerslie",
+        "address2": "",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "Ellerslie",
+          "Auckland",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6492812714",
+      "display_phone": "+64 9 281 2714",
+      "distance": 5743.547816285333,
+      "business_hours": [],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "vYpDe3hpcCjzHSLJGUuzwA",
+      "alias": "biskit-auckland",
+      "name": "Biskit",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Ioim7ZKGAE8u0ZtxRqV1kQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/biskit-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 12,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": -36.8551598,
+        "longitude": 174.7801056
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "215 Parnell Road",
+        "address2": "Parnell",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1052",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "215 Parnell Road",
+          "Parnell",
+          "Auckland 1052",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493091919",
+      "display_phone": "+64 9 309 1919",
+      "distance": 1316.2617804016731,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "oWIBwf1Yok758bjpZ_VAMg",
+      "alias": "domain-and-ayr-auckland",
+      "name": "Domain & Ayr",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/dBzsq0qXarerWwpRCUXXIw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/domain-and-ayr-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 16,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": -36.8622121814254,
+        "longitude": 174.782028747843
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "492 Parnell Rd",
+        "address2": "Parnell",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "1052",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "492 Parnell Rd",
+          "Parnell",
+          "Auckland 1052",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6493664464",
+      "display_phone": "+64 9 366 4464",
+      "distance": 1419.9829788861455,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1500",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1500",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "1z6rNpSyD0edGI0HkAe8Pg",
+      "alias": "your-cafe-auckland",
+      "name": "Your Cafe",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/your-cafe-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.8119909689548,
+        "longitude": 174.7253498
+      },
+      "transactions": [],
+      "location": {
+        "address1": "17 Mokoia Rd",
+        "address2": "Birkenhead",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0626",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "17 Mokoia Rd",
+          "Birkenhead",
+          "Auckland 0626",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494182095",
+      "display_phone": "+64 9 418 2095",
+      "distance": 6437.64131758475,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1500",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "pALio1Uda2fnt7H7zB567w",
+      "alias": "the-malthouse-auckland",
+      "name": "The Malthouse",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/1IKYdzpUxMt5BYWc1pAAIQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-malthouse-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 7,
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "pubs",
+          "title": "Pubs"
+        },
+        {
+          "alias": "newzealand",
+          "title": "New Zealand"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.7754784,
+        "longitude": 174.6704712
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "10 Greenhithe Rd",
+        "address2": "Greenhithe",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "0632",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "10 Greenhithe Rd",
+          "Greenhithe",
+          "Auckland 0632",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494138651",
+      "display_phone": "+64 9 413 8651",
+      "distance": 12684.806436220833,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "2300",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.malthousegreenhithe.co.nz/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "3lOnb8JNBF4uR7EWRhoqlA",
+      "alias": "union-post-auckland-2",
+      "name": "Union Post",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/IgzAL_Uc54qUjS7GFx4ZfQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/union-post-auckland-2?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 20,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "modern_european",
+          "title": "Modern European"
+        }
+      ],
+      "rating": 3.6,
+      "coordinates": {
+        "latitude": -36.8978004,
+        "longitude": 174.8095398
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "124 Main Highway",
+        "address2": "Ellerslie",
+        "address3": null,
+        "city": "Auckland",
+        "zip_code": "1051",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "124 Main Highway",
+          "Ellerslie",
+          "Auckland 1051",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6495792303",
+      "display_phone": "+64 9 579 2303",
+      "distance": 5720.114791278216,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.unionpost.co.nz/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "PvE5jy1H7S33SLkpKXiPaw",
+      "alias": "the-collins-cafe-and-bar-auckland",
+      "name": "The Collins Cafe And Bar",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/x6N6uyWtpv_iv4Z-lQyHiw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-collins-cafe-and-bar-auckland?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "bistros",
+          "title": "Bistros"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": -36.7743912,
+        "longitude": 174.6712341
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "20 Greenhithe Rd",
+        "address2": "Greenhithe",
+        "address3": "",
+        "city": "Auckland",
+        "zip_code": "0632",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "20 Greenhithe Rd",
+          "Greenhithe",
+          "Auckland 0632",
+          "New Zealand"
+        ]
+      },
+      "phone": "+6494139322",
+      "display_phone": "+64 9 413 9322",
+      "distance": 12714.321167267908,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1730",
+              "end": "2230",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2230",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.thecollins.co.nz/Brunch",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "DVJBawblknZgHXq5MvlQ6g",
+      "alias": "pita-pit-massey",
+      "name": "Pita Pit",
+      "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/PGB07RjiXBwu7xNMSM-gpg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pita-pit-massey?adjust_creative=hldflfx6lrRiQeQId--jTw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=hldflfx6lrRiQeQId--jTw",
+      "review_count": 0,
+      "categories": [
+        {
+          "alias": "kebab",
+          "title": "Kebab"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 0.0,
+      "coordinates": {
+        "latitude": -36.8180582033773,
+        "longitude": 174.611298245412
+      },
+      "transactions": [],
+      "location": {
+        "address1": "1/7 Fred Taylor Dr",
+        "address2": "Shop 15A",
+        "address3": "",
+        "city": "Massey",
+        "zip_code": "0814",
+        "country": "NZ",
+        "state": "AUK",
+        "display_address": [
+          "1/7 Fred Taylor Dr",
+          "Shop 15A",
+          "Massey 0814",
+          "New Zealand"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 14556.597304170047,
+      "business_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1730",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ],
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://pitapit.co.nz/menu/pitas",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    }
+  ]
+}
