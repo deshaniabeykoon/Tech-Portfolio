@@ -1,4 +1,4 @@
-# 📊 Assignment 01 - Data Analysis & Engineering
+# 📊 Avon River - Data Analysis & Engineering
 
 This project demonstrates my ability to work as both a **Data Analyst** and **Data Engineer**.  
 It includes data cleaning, transformation, exploratory data analysis (EDA), and visualization using Python.
